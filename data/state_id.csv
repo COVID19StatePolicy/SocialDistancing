@@ -1,0 +1,52 @@
+StatePostal,StateName,StateFIPS,location_id
+AL,Alabama,1,523
+AK,Alaska,2,524
+AZ,Arizona,4,525
+AR,Arkansas,5,526
+CA,California,6,527
+CO,Colorado,8,528
+CT,Connecticut,9,529
+DE,Delaware,10,530
+DC,District of Columbia,11,531
+FL,Florida,12,532
+GA,Georgia,13,533
+HI,Hawaii,15,534
+ID,Idaho,16,535
+IL,Illinois,17,536
+IN,Indiana,18,537
+IA,Iowa,19,538
+KS,Kansas,20,539
+KY,Kentucky,21,540
+LA,Louisiana,22,541
+ME,Maine,23,542
+MD,Maryland,24,543
+MA,Massachusetts,25,544
+MI,Michigan,26,545
+MN,Minnesota,27,546
+MS,Mississippi,28,547
+MO,Missouri,29,548
+MT,Montana,30,549
+NE,Nebraska,31,550
+NV,Nevada,32,551
+NH,New Hampshire,33,552
+NJ,New Jersey,34,553
+NM,New Mexico,35,554
+NY,New York,36,555
+NC,North Carolina,37,556
+ND,North Dakota,38,557
+OH,Ohio,39,558
+OK,Oklahoma,40,559
+OR,Oregon,41,560
+PA,Pennsylvania,42,561
+RI,Rhode Island,44,562
+SC,South Carolina,45,563
+SD,South Dakota,46,564
+TN,Tennessee,47,565
+TX,Texas,48,566
+UT,Utah,49,567
+VT,Vermont,50,568
+VA,Virginia,51,569
+WA,Washington,53,570
+WV,West Virginia,54,571
+WI,Wisconsin,55,572
+WY,Wyoming,56,573

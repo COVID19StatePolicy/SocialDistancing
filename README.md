@@ -68,7 +68,7 @@ Kaiser Family Foundation (KFF):  https://www.kff.org/health-costs/issue-brief/st
 | Kenya Amano  | Department of Political Science, University of Washington  | | | |
 | Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | | |
 | Nancy Fullman  | Institute for Health Metrics and Evaluation, University of Washington  | nf4@uw.edu | @nwnancy | |
-| John Wilkerson  | Department of Political Science, University of Washington  | | | |
+| John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
 
 

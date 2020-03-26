@@ -1,6 +1,6 @@
 ## Data updates log
 
-#### March 26, 2020 (8:00 am PST)  
+### March 26, 2020 (8:35 am PST)  
 - **Arkansas**: "OtherBusinessClose" issued on 20200323.    
 - **Connecticut**: "SchoolClose" formally extended 20200324.    
 - **Delaware**: "SchoolClose" issued on 20200323.  

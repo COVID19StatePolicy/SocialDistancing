@@ -14,7 +14,9 @@ Analysis of these data is also underway; interested parties should contact us (s
 **source** : Currently compiled pdf documentation of policies identified; further compilation in-progress.
 
 ## State-level policy response
-- **File**: "USstatesCov19distancingpolicy_YYYYMMDD.csv" with YYYYMMDD being the date of the last dataset update. 
+- **File**: "USstatesCov19distancingpolicy.csv". Prior datasets are archived with date stamps in the format of YYYYMMDD.
+- **location_id**: State-level unique identifier per the Global Burden of Disease (GBD) study.  
+- **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
 - **StatePostal**: Two-letter state postal code. This corresponds to StatePostal in the "state_id.csv".
 - **StateName**: State name. This corresponds to StateName in "state_id.csv".
 - **StatePolicy** : String variable of state policies, as described below:   
@@ -40,13 +42,6 @@ Analysis of these data is also underway; interested parties should contact us (s
 - **PolicyCodingNotes**: Coder notes. Information on specific businesses closed, type of emergency declaration, potential exceptions, etc., are provided here.  
 - **StateWide**: Binary variable indicating whether the policy applied statewide (1) or for local areas (0).   
 - **LastUpdated**: Date of last update for the given state-policy observation. The format is YYYYMMDD.
-
-## State id codebook
-- **File**: "state_id.csv"   
-- **StatePostal**: Two-letter state postal code. This corresponds to StatePostal in the "USstatesCov19distancingpolicy_YYYYMMDD.csv".  
-- **StateName**: State name. This corresponds to StateName in "USstatesCov19distancingpolicy_YYYYMMDD.csv".  
-- **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
-- **location_id**: State-level unique identifier per the Global Burden of Disease (GBD) study.  
 
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    

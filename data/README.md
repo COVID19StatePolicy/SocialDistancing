@@ -1,6 +1,10 @@
 ## Data updates log
 
+### March 27, 2020 (x:xx am PST)  
+**_File updates_**: Merged "location_id" and "StateFIPS" into master data file to enable easier use. Removed date stamp from the most up-to-date file to reduce potential issues with pulling datasets from the repo; archived datasets include the date stamp of their upload.
+
 ### March 26, 2020 (8:35 am PST)  
+**_File updates_**: Added variable "DateEnded" to capture time of policy discontinuation.
 - **Arkansas**: "OtherBusinessClose" issued on 20200323.    
 - **Connecticut**: "SchoolClose" formally extended 20200324.    
 - **Delaware**: "SchoolClose" issued on 20200323.  

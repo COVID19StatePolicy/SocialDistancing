@@ -1,9 +1,10 @@
 ## Data updates log
 
-### March 27, 2020 (x:xx am PST)  
+### March 27, 2020 (5:49 am PST)  
 **_File updates_**
 - Merged "location_id" and "StateFIPS" into master data file to enable easier use.  
-- Removed date stamp from the most up-to-date file to reduce potential issues with pulling datasets from the repo; archived datasets include the date stamp of their upload.  
+- Removed date stamp from the most up-to-date file to reduce potential issues with pulling datasets from the repo; archived datasets include the date stamp of their upload.
+
 **_State updates_**  
 - **Colorado**: "NEBusinessCLose" and "StayAtHome" issued on 20200325, goes into effect on 20200326.    
 - **Georgia**: Added "PolicySource" for limited "StayAtHome".    
@@ -18,7 +19,8 @@
 
 ### March 26, 2020 (8:35 am PST)  
 **_File updates_**
-- Added variable "DateEnded" to capture time of policy discontinuation.  
+- Added variable "DateEnded" to capture time of policy discontinuation.
+
 **_State updates_**  
 - **Arkansas**: "OtherBusinessClose" issued on 20200323.    
 - **Connecticut**: "SchoolClose" formally extended 20200324.    

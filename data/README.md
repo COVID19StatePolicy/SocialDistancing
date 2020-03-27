@@ -3,11 +3,22 @@
 ### March 27, 2020 (x:xx am PST)  
 **_File updates_**
 - Merged "location_id" and "StateFIPS" into master data file to enable easier use.  
-- Removed date stamp from the most up-to-date file to reduce potential issues with pulling datasets from the repo; archived datasets include the date stamp of their upload.
+- Removed date stamp from the most up-to-date file to reduce potential issues with pulling datasets from the repo; archived datasets include the date stamp of their upload.  
+**_State updates_**  
+- **Colorado**: "NEBusinessCLose" and "StayAtHome" issued on 20200325, goes into effect on 20200326.    
+- **Georgia**: Added "PolicySource" for limited "StayAtHome".    
+- **Hawaii**: "SchoolClose" extension issued 20200324.    
+- **Indiana**: "RestaurantRestrict" issued on 20200323, goes into effect on 20200324; further issuance of banning in-person dining in restaurants.    
+- **Massachusetts**: "SchoolClose" extension issued 20200325.    
+- **Nevada**: "GathRestrict10" issued on 20200324; involves more stringent restrictions than the 20200319 issuance.    
+- **Pennsylvania**: "StayAtHome" are separated into individual entries, wherein 20200323 was the initial issuance for Allegheny County, Bucks County, Chester County, Delaware County, Monroe County, Montgomery County, and Philadelphia County; 20200324 was for Erie County; and 20200325 was for Lehigh and Northampton Counties.    
+- **South Carolina**: "SchoolClose" extension issued 20200326.    
+- **Utah**: "SchoolClose" extension for public schools issued 20200323.
+
 
 ### March 26, 2020 (8:35 am PST)  
 **_File updates_**
-Added variable "DateEnded" to capture time of policy discontinuation.
+- Added variable "DateEnded" to capture time of policy discontinuation.  
 **_State updates_**  
 - **Arkansas**: "OtherBusinessClose" issued on 20200323.    
 - **Connecticut**: "SchoolClose" formally extended 20200324.    

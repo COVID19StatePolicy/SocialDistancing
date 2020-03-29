@@ -1,5 +1,14 @@
 ## Data updates log
 
+### March 29, 2020 (5:16 am PST)  
+**_File updates_**
+- Added "DateExpiry" to capture the time, as applicable or provided, at which a given policy issuance is meant to expire in the absence of a deliberate extension, amendment, etc. Work is ongoing to capture this information for earlier policy issuances.  
+- Added "LastUpdatedNotes" to provide additional detail, as helpful, to data updates.  
+
+**_State updates_**
+_In-progress for March 29_  
+- Policies for which enactment occurred at 11:59 pm on date x are now being coded as the following day (datex+1). Work is ongoing to ensure this proper data capture; "NEBusinessClose" and "StayAtHome" are the current priorities for this. Where changes have occurred already, they are documented under "LastUpdatedNotes" for 20200329.
+
 ### March 27, 2020 (5:49 am PST)  
 **_File updates_**
 - Merged "location_id" and "StateFIPS" into master data file to enable easier use.  
@@ -19,7 +28,7 @@
 
 ### March 26, 2020 (8:35 am PST)  
 **_File updates_**
-- Added variable "DateEnded" to capture time of policy discontinuation.
+- Added variable "DateEnded" to capture time of policy discontinuation; this is meant to reflect a deliberate action to end the policy rather than its expiration per executive order.
 
 **_State updates_**  
 - **Arkansas**: "OtherBusinessClose" issued on 20200323.    

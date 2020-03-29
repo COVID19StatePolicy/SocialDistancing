@@ -5,8 +5,8 @@
 - Added "DateExpiry" to capture the time, as applicable or provided, at which a given policy issuance is meant to expire in the absence of a deliberate extension, amendment, etc. Work is ongoing to capture this information for earlier policy issuances.  
 - Added "LastUpdatedNotes" to provide additional detail, as helpful, to data updates.  
 
-**_State updates_**
-_In-progress for March 29_  
+**_State updates_**  
+_Full documentation is in-progress for March 29_  
 - Policies for which enactment occurred at 11:59 pm on date x are now being coded as the following day (datex+1). Work is ongoing to ensure this proper data capture; "NEBusinessClose" and "StayAtHome" are the current priorities for this. Where changes have occurred already, they are documented under "LastUpdatedNotes" for 20200329.
 
 ### March 27, 2020 (5:49 am PST)  

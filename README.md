@@ -39,14 +39,18 @@ Analysis of these data is also underway; interested parties should contact us (s
        - **StateCurfew**: Mandates specific curfews at which residents are not to be outside their homes unless performing essential activities, as defined by the state. Coding a case as a state curfew requires specific curfew times (thus "stay-at-home" mandates were not considered curfews).      
 - **DateIssued**: Date of policy issuance. The date of signing of the policy document (e.g., executive order) was used wherever possible. Format is YYYYMMDD (e.g., March 16, 2020 is 20200316). Entries are not currently included for most non-statewide policies; this documentation is in-progress.  
 - **DateEnacted**: Date of policy enactment: the date of when the policy would be enforced, per descriptions available in policy documents. The format is YYYYMMDD. Entries are not currently included for most non-statewide policies; this documentation is in-progress.  
-- **PolicyCodingNotes**: Coder notes. Information on specific businesses closed, type of emergency declaration, potential exceptions, etc., are provided here.  
+- **DateExpiry**: Date of policy expiry, if or as provided in the policy issuance or executive order. This date is meant to reflect when the policy or order would be in effect until or unless additional action is taken to extend, amend, or halt its status. The format is YYYYMMDD. This documentation is in-progress, as it was added on March 29, 2020 as a variable of interest.    
+- **DateEnded**: Date the policy is ended. This date is meant to reflect when a policy is ended, particularly if it is halted or reversed prior to its expiry date. The format is YYYYMMDD. This documentation is in-progress.    
+- **PolicyCodingNotes**: Coder notes. Information on specific businesses closed, type of emergency declaration, potential exceptions, etc., are provided here. 
+- **PolicySource**: Currently available source for each policy issued. Sourcing by hard-copy PDF _versus_ hyperlinks is in-progress.    
 - **StateWide**: Binary variable indicating whether the policy applied statewide (1) or for local areas (0).   
-- **LastUpdated**: Date of last update for the given state-policy observation. The format is YYYYMMDD.
+- **LastUpdated**: Date of last update for the given state-policy observation. The format is YYYYMMDD.    
+- **LastUpdatedNotes**: Coder notes on last updates. This reflects notable changes since the last update, especially if a date has been recoded (e.g., switching to coding orders enacted at 11:59 pm on date1 to date1+1 for its enactment timing) or the "StatePolicy" type has been amended (e.g., some initial coding of "NEBusinessClose" policies were applicable to non-essential in-person retail businesses only, not all non-essential businessess as defined by state).    
 
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.02, March 27, 2020. http://www.covid19statepolicy.org/
+Nancy Fullman, Bree Bang-Jensen, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.03, March 29, 2020. http://www.covid19statepolicy.org/
 
 ## Contributors
 Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US. We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.

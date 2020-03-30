@@ -1,5 +1,16 @@
 ## Data updates log
 
+### March 30, 2020 (4:xx PST)  
+**_File updates_**
+- Added "Mandate" to reflect whether a policy is considered a mandate _versus_ a recommendation. This addition was made to better reflect the types of individual policies being enacted at the state-level, particularly in relation to "StateAtHome" and "NEBusinessClose" codings. For "StayAtHome"
+
+**_State updates_**
+_Full documentation is in-progress for March 30_
+- **Maryland**: "StayAtHome" issued 20200330, enacted on 20200330.    
+- **Oklahoma**: Updated "NEBusinessClose" to be coded as 0 for StateWide as this issuance is only applicable to counties with community spread.    
+- **Oregon**: Recoded "NEBusinessClose" on 20200323 to "OtherBusinessClose" as the mandate delineates only certain business for closure and does not diretly require all non-essential businesses to close.    
+- **Virginia**: "StayAtHome" issued 20200330, enacted 20200330.
+
 ### March 29, 2020 (5:16 am PST)  
 **_File updates_**
 - Added "DateExpiry" to capture the time, as applicable or provided, at which a given policy issuance is meant to expire in the absence of a deliberate extension, amendment, etc. Work is ongoing to capture this information for earlier policy issuances.  

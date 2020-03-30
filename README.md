@@ -1,6 +1,6 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
-This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers in the Department of Political Science and the Institute for Health Metrics and Evaluation at the University of Washington, Seattle, WA, USA. 
+This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. 
 
 Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
 
@@ -66,7 +66,7 @@ Kaiser Family Foundation (KFF):  https://www.kff.org/health-costs/issue-brief/st
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
 | Kenya Amano  | Department of Political Science, University of Washington  | kamano@uw.edu | | |
 | Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | | |
-| Nancy Fullman  | Institute for Health Metrics and Evaluation, University of Washington  | nf4@uw.edu | @nwnancy | |
+| Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
 

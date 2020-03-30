@@ -1,6 +1,6 @@
 ## Data updates log
 
-### March 30, 2020 (4:xx PST)  
+### March 30, 2020 (4:17 PST)  
 **_File updates_**
 - Added "Mandate" to reflect whether a policy is considered a mandate _versus_ a recommendation. This addition was made to better reflect the types of individual policies being enacted at the state-level, particularly in relation to "StateAtHome" and "NEBusinessClose" codings. For "StayAtHome"
 

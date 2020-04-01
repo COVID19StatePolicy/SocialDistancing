@@ -1,6 +1,24 @@
 ## Data updates log
 
-### March 30, 2020 (4:17 PST)  
+### April 1, 2020 (9:xx am PST)  
+**_Data in-progress updates_**
+Our team is currently adding quarantine, as well as intra- and interstate travel restrictions, policies to our development database. We plan to include these under "StatePolicy" in the immediate future.
+
+**_State updates_**
+- **Alabama**: "OtherBusinessClose" issued 20200327, enacted on 20200328. This was not coded as "NEBusinessClose" because it listed a subset of groups of non-essential businesses to close rather than issuing a full closure mandate and detailing exceptions.    
+- **Arizona**: "StayAtHome" issued 20200330, enacted on 20200331.    
+- **Connecticut**: Fixed typo for "StatePolicy": was "StateAtHome" now revised to "StayAtHome".    
+- **Florida**: "NEBusinessClose" issued and enacted on 20200330 for subset of counties. StateWide==0.
+- **Idaho**: "SchoolClose" issued and enacted on 20200323. This was previously not coded as a full school closure; re-review indicated that the soft-closure involved requiring all students to not attend school in-person and schools move to distancing learning, constituting a state-wide school closure.    
+- **Mississippi**: "StayAtHome" issued and enacted on 20200331 for Lauderdale County only. StateWide==0.     
+- **Mississippi**: "NEBusinessClose" issued and enacted on 20200331 for Lauderdale County only. StateWide==0.    
+- **Pennsylvania**: "StayAtHome" issued and enacted on 20200328 for Beaver, Centre, and Washington Counties. StateWide==0.  
+- **South Carolina**: "OtherBusinessClose" issued and enacted on 20200331. Similar to the Alambama order, this was not coded as "NEBusinessClose" because it listed a subset of groups of non-essential businesses to close rather than issuing a full closure mandate and detailing exceptions.    
+- **Tennessee**: "StayAtHome" recommendation (Mandate==0) issued on 20200330, enacted on 20200401. The order urges all persons in Tenneessee to stay at home rather than mandating them to do so, so this is not currently coded as a "StayAtHome" mandate.    
+- **Tennessee**: "NEBusinesClose" issued on 20200330, enacted on 20200401.    
+
+
+### March 30, 2020 (4:17 pm PST)  
 **_File updates_**
 - Added "Mandate" to reflect whether a policy is considered a mandate _versus_ a recommendation. This addition was made to better reflect the types of individual policies being enacted at the state-level, particularly in relation to "StateAtHome" and "NEBusinessClose" codings. For "StayAtHome"
 

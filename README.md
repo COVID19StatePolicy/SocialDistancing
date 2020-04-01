@@ -54,7 +54,7 @@ As the data are updated regularly, please check any relevant updates here:
 Nancy Fullman, Bree Bang-Jensen, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.05, April 1, 2020. http://www.covid19statepolicy.org/
 
 ## Contributors
-Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US. We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.
+Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US, and then supplemented with additional searches (e.g., governor websites). We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.
 
 National Governors Association (NGA):  https://www.nga.org/coronavirus/  
 Kaiser Family Foundation (KFF):  https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/

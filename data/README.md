@@ -4,7 +4,7 @@
 **_Data in-progress updates_**  
 Our team is currently adding quarantine, as well as intra- and interstate travel restrictions, policies to our development database. We plan to include these under "StatePolicy" in the immediate future.
 
-**_State updates_**
+**_State updates_**  
 _Full documentation is in-progress for April 2_
 
 ### April 1, 2020 (9:10 am PST)  

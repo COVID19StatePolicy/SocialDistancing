@@ -1,9 +1,13 @@
 ## Data updates log
 
-### April 1, 2020 (9:10 am PST)  
+### April 2, 2020 (4:29 pm PST)  
 **_Data in-progress updates_**  
 Our team is currently adding quarantine, as well as intra- and interstate travel restrictions, policies to our development database. We plan to include these under "StatePolicy" in the immediate future.
 
+**_State updates_**
+_Full documentation is in-progress for April 2_
+
+### April 1, 2020 (9:10 am PST)  
 **_State updates_**
 - **Alabama**: "OtherBusinessClose" issued 20200327, enacted on 20200328. This was not coded as "NEBusinessClose" because it listed a subset of groups of non-essential businesses to close rather than issuing a full closure mandate and detailing exceptions.    
 - **Arizona**: "StayAtHome" issued 20200330, enacted on 20200331.    

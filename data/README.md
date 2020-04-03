@@ -1,4 +1,19 @@
 ## Data updates log
+### April 2, 2020 (11:28 pm PST)
+**_Variable updates_**
+We are adding three new categories under "StatePolicy", "Quarantine", "TravelRestrictIntra" and "TravelRestrictExit".
+**Quarantine**: Quarantines on people entering the state, requiring a period of self-isolation.  Quarantines may be imposed on all people entering the state, out of state residents, or travelers from a particular state or city.   Quarantine length and who is covered by the policy can be found in the "PolicyNotes" column.  
+**TravelRestrictIntra**: Restrictions on travel within the state.  These restrictions can be between cities or counties or within them.  The "StateWide" column indicates whether these restrictions are in place throughout the state or only in local areas. 
+**TravelRestrictExit**:  Policies which prohibit residents of a state from leaving that state.  These policies may have exceptions for essential businesses.
+
+**_State Updates_**
+**Georgia**: "StayAtHome" issued 20200402, enacted on 20200403.  
+**Illinois**: Expiry date of 20200407 added for "StayAtHome" order.
+**Tennessee**: "StayAtHome" issued 20200402, enacted 20200402.
+**Quarantine**: In place in Alaska, Florida, Hawaii, Kentucky, Massachusetts, Montana, New Mexico, Rhode Island, South Carolina, Texas, Vermont, West Virginia.
+**TravelRestrictIntra**: In place in Alaska.
+**TravelRestrictExit**: In place in Kentucky. 
+
 
 ### April 2, 2020 (4:29 pm PST)  
 **_Data in-progress updates_**  

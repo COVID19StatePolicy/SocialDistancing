@@ -41,7 +41,7 @@ _Full documentation is in-progress for April 2_
 **_File updates_**
 - Added "Mandate" to reflect whether a policy is considered a mandate _versus_ a recommendation. This addition was made to better reflect the types of individual policies being enacted at the state-level, particularly in relation to "StateAtHome" and "NEBusinessClose" codings. For "StayAtHome"
 
-**_State updates_**
+**_State updates_**  
 _Full documentation is in-progress for March 30_
 - **Maryland**: "StayAtHome" issued 20200330, enacted on 20200330.    
 - **Oklahoma**: Updated "NEBusinessClose" to be coded as 0 for StateWide as this issuance is only applicable to counties with community spread.    

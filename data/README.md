@@ -1,5 +1,5 @@
 ## Data updates log
-### April 2, 2020 (11:28 pm PST)  
+### April 3, 2020 (8:48 pm PST)  
 **_Variable updates_**  
 We are adding three new categories under "StatePolicy": "Quarantine", "TravelRestrictIntra" and "TravelRestrictExit".  
 **Quarantine**: Quarantines on people entering the state, requiring a period of self-isolation.  Quarantines may be imposed on all people entering the state, out of state residents, or travelers from a particular state or city.   Quarantine length and who is covered by the policy can be found in the "PolicyNotes" column.   

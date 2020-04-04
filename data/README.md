@@ -1,7 +1,7 @@
 ## Data updates log
 ### April 3, 2020 (8:48 am PST)  
 **_Variable updates_**  
-Starting today, we added three new categories under "StatePolicy": "Quarantine", "TravelRestrictIntra" and "TravelRestrictExit". Their descriptions are below, as well as the landing page read-me.    
+Starting today, we added three new categories under "StatePolicy": "Quarantine", "TravelRestrictIntra" and "TravelRestrictExit". Their descriptions are below, as well as on the landing page README file.    
 - **Quarantine**: Quarantines on people entering the state, requiring a period of self-isolation. Quarantines may be imposed on all people entering the state, out-of-state residents, or travelers from a particular state or city. Quarantine length and who is covered by the policy can be found in the "PolicyNotes" column.   
 - **TravelRestrictIntra**: Restrictions on travel within the state. These restrictions can be between cities or counties or within them. The "StateWide" column indicates whether these restrictions are in place throughout the state or only in local areas.  
 - **TravelRestrictExit**:  Policies which prohibit residents of a state from leaving that state.  These policies may have exceptions for essential businesses.

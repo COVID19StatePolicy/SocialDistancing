@@ -1,4 +1,8 @@
 ## Data updates log
+
+### April 4, 2020 (11:55 am PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._ 
+
 ### April 3, 2020 (8:48 am PST)  
 **_Variable updates_**  
 Starting today, we added three new categories under "StatePolicy": "Quarantine", "TravelRestrictIntra" and "TravelRestrictExit". Their descriptions are below, as well as on the landing page README file.    

@@ -1,5 +1,10 @@
 ## Data updates log
 
+### April 5, 2020 (10:12 am PST)  
+**_State Updates_**    
+-**Nebraska**: "SchoolClose" issued and enacted 20200403, current expiry date is 20200531.    
+-**Oklahoma**: "EmergDec" (state health emergency) issued and enacted 20200402, current expiry date is 20200502. This is the second declaration for Oklahoma, which issued is first emergency declaration on 20200402.
+
 ### April 4, 2020 (11:55 am PST)  
 _Updated policy dataset pushed; documentation of updates in-progress._ 
 

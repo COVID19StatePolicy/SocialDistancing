@@ -1,5 +1,9 @@
 ## Data updates log
 
+### April 6, 2020 (12:48 PST)  
+**_State Updates_**   
+_Updated policy dataset pushed; documentation of updates in-progress._ 
+
 ### April 5, 2020 (10:12 am PST)  
 **_State Updates_**    
 -**Nebraska**: "SchoolClose" issued and enacted 20200403, current expiry date is 20200531.    

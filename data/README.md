@@ -2,7 +2,9 @@
 
 ### April 6, 2020 (12:48 PST)  
 **_State Updates_**   
-_Updated policy dataset pushed; documentation of updates in-progress._ 
+- **Delaware**: "Quarantine" issued on 20200329, enacted on 20200330.    
+- **Delaware**:  Revised "EnactDate" for "GathRecomAny" to 20200313; original entry was 20200316.  
+- **Michigan**: Notes included on "SchoolClose" extension (i.e., an executive order has now closed schools through the end of the school year).
 
 ### April 5, 2020 (10:12 am PST)  
 **_State Updates_**    

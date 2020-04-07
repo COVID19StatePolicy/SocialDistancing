@@ -1,15 +1,19 @@
 ## Data updates log
 
-### April 6, 2020 (12:48 PST)  
+### April 7, 2020 (12:27 am PST)  
+**_State Updates_**  
+- **South Carolina**: "StayAtHome" issued on 20200406, enacted on 20200407.
+
+### April 6, 2020 (12:48 pm PST)  
 **_State Updates_**   
 - **Delaware**: "Quarantine" issued on 20200329, enacted on 20200330.    
-- **Delaware**:  Revised "EnactDate" for "GathRecomAny" to 20200313; original entry was 20200316.  
+- **Delaware**: Revised "EnactDate" for "GathRecomAny" to 20200313; original entry was 20200316.  
 - **Michigan**: Notes included on "SchoolClose" extension (i.e., an executive order has now closed schools through the end of the school year).
 
 ### April 5, 2020 (10:12 am PST)  
 **_State Updates_**    
--**Nebraska**: "SchoolClose" issued and enacted 20200403, current expiry date is 20200531.    
--**Oklahoma**: "EmergDec" (state health emergency) issued and enacted 20200402, current expiry date is 20200502. This is the second declaration for Oklahoma, which issued is first emergency declaration on 20200402.
+- **Nebraska**: "SchoolClose" issued and enacted 20200403, current expiry date is 20200531.    
+- **Oklahoma**: "EmergDec" (state health emergency) issued and enacted 20200402, current expiry date is 20200502. This is the second declaration for Oklahoma, which issued is first emergency declaration on 20200402.
 
 ### April 4, 2020 (11:55 am PST)  
 _Updated policy dataset pushed; documentation of updates in-progress._ 

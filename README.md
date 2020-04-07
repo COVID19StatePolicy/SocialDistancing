@@ -6,7 +6,7 @@ Note all data provided here are subject to updates or revisions based on continu
 
 Analysis of these data is also underway; interested parties should contact us (see information below).
 
-![Figure](Figure1.png)
+![Figure](https://github.com/COVID19StatePolicy/SocialDistancing/blob/master/figure/Figure1.png)
 ## Organization
 
 

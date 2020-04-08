@@ -1,7 +1,16 @@
 ## Data updates log
 
 ### April 8, 2020 (9:15 am PST)  
-_Updated policy dataset pushed; documentation of updates in-progress._ 
+**_Variable updates_**  
+Starting today, we added one new category under "StatePolicy": "TravelRestrictEntry". Its description is below, as well as on the landing page README file.        
+- **TravelRestrictEntry**: Travel restriction mandates that limit non-residents from entering a given state. These policies may have exceptions or exemptions for essential businesses or their employees, and they may include restrictions for commercial lodging for non-residents.
+
+**_State updates_**  
+- **Arizona**: "Quarantine" issued on 20200407, enacted on 20200409. This policy involves as 14-day quarantine for any individual entering Arizona from New York, New Jersey, and Connecticut as their points of travel origin.    
+- **Arkansas**: "TravelRestrictEntry" issued on 20200404, enacted on 20200406.    
+- **South Dakota**: "GathRestrict10" issued and enacted on 20200406, current expiry is 20200531. Because South Dakota had not issued a formal gather restriction mandate previously (their prior orders were recommendations), this policy also has been coded as "GathRestrictAny" with the same dates of issuance, enactment, and expiry.     
+- **Wyoming**: "Quarantine" issued and enacted on 20200403, current expiry is 20200430. This policy involves a 14-day quarantine for any individual entering Arizona from any point of travel origin.
+
 
 ### April 7, 2020 (12:27 am PST)  
 **_State Updates_**  

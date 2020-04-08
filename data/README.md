@@ -1,5 +1,8 @@
 ## Data updates log
 
+### April 8, 2020 (9:15 am PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._ 
+
 ### April 7, 2020 (12:27 am PST)  
 **_State Updates_**  
 - **South Carolina**: "StayAtHome" issued on 20200406, enacted on 20200407.

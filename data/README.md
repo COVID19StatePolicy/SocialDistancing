@@ -1,5 +1,8 @@
 ## Data updates log
 
+### April 9, 2020 (10:32 am PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._ 
+
 ### April 8, 2020 (9:15 am PST)  
 **_Variable updates_**  
 Starting today, we added one new category under "StatePolicy": "TravelRestrictEntry". Its description is below, as well as on the landing page README file.        

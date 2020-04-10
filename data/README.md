@@ -1,10 +1,18 @@
 ## Data updates log
 
 ### April 10, 2020 (3:43 am PST)  
-_Updated policy dataset pushed; documentation of updates in-progress._ 
+**_State updates_**
+- **Arkansas**: Curfew variable is local only; updated this record to a mandate from advisory.    
+- **California**: "SchoolClose" advisory recorded, with an issue date of 20200313 and advised enactment date of 20200313.    
+- **Connecticut**: Curfew variable changed from statewide to local under "StateWide" (now 0).    
+- **Georgia**: PolicyNotes updated to reflect that the original "EmergDec" declaration has been extended to 20200513.    
+- **Iowa**: Expiry date of 20200501 added.    
+- **Louisiana**: "PolicyNotes" updated to reflect extension of the original "EmergDec" to 20200430; curfew variable was recoded to "StateWide" equaling 0 as no documentation was found to support statewide curfews.    
+- **Maine**: "SchoolClose" advisory enact date of 20200315 added; curfew variable is local only and "StateWide" is now equal to 0.    
+- **West Virginia**: "GathRestrict10" is for Marion County only (StateWide==1); issued on 20200408, enacted on 20200409.
 
 ### April 9, 2020 (10:32 am PST)  
-_Updated policy dataset pushed; documentation of updates in-progress._ 
+_Updated policy dataset pushed; documentation of updates in-progress.
 
 ### April 8, 2020 (9:15 am PST)  
 **_Variable updates_**  

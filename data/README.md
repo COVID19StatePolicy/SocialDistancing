@@ -12,7 +12,7 @@
 - **West Virginia**: "GathRestrict10" is for Marion County only (StateWide==1); issued on 20200408, enacted on 20200409.
 
 ### April 9, 2020 (10:32 am PST)  
-_Updated policy dataset pushed; documentation of updates in-progress.
+_Updated policy dataset pushed; documentation of updates in-progress._
 
 ### April 8, 2020 (9:15 am PST)  
 **_Variable updates_**  

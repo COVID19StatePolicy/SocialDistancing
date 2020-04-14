@@ -1,5 +1,11 @@
 ## Data updates log
 
+### April 14, 2020 (2:58 pm PST)  
+**_State updates_**  
+Our team completed its re-review of existing policy records for all 50 states and the District of Columbia. The dataset uploaded today includes all relevant revisions based on the re-review of executive orders, as well as additions of new policies not previously captured. We also deleted some entries for which no documentation existed, or if the record was fully inaccurate.  
+
+Full documentation of changes per location is in-progress. All policy entries where "LastUpdated" is 20200411, 20200412, 20200413, or 20200414 and includes notes in the "LastUpdatedNotes" indicate an update to the prior entry.
+
 ### April 13, 2020 (5:49 am PST)  
 **_State updates_**  
 Our team has begun a re-review of all existing policy records by state in an effort to cross-check sources, relevant dates (issuance, enactment, expiry), and policy coding (i.e., classification of each policy). Since our initial effort to capture state-level distancing policies (March 20-21, 2020), documentation has markedly improved as have online compilations of executive orders on government websites and elsewhere. The primary updates we see thus far are shifting dates by one day (e.g., re-review found that a policy was enacted at 11:59 pm on 2020031, so this was updated to 20200401 for "DateEnacted"), additional or amended gathering restrictions identified through document re-review (e.g., Utah's initial GathRestrictAny on 20200312 was revised to a non-statewide GathRecomAny following re-review of declarations and orders), and additional "OtherBusinessClose" mandates.  

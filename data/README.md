@@ -57,11 +57,11 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
 - **Texas**: _in-progress_  
 - **Utah**: _in-progress_  
 - **Vermont**: _in-progress_  
-- **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, following updates occurred for current policy records:    
+- **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, the following updates occurred for current policy records:    
    - GathRestrict10: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.        
    - OtherBusinessClose: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.            
    - RestaurantRestrict: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.   
-- **Washington**: "SchoolClose" for King, Pierce, and Snohomish counties (and thus "StateWide" coded as 0) added, issued on 20200312 and enacted on 20200317. "GathRestrictAny" and "GathRestrict250" with "StateWide" coded as 0 included with issue and enactmentment date of 20200313. Based on the re-review, following updates occurred for current policy records:    
+- **Washington**: "SchoolClose" for King, Pierce, and Snohomish counties (and thus "StateWide" coded as 0) added, issued on 20200312 and enacted on 20200317. "GathRestrictAny" and "GathRestrict250" with "StateWide" coded as 0 included with issue and enactmentment date of 20200313. Based on the re-review, the following updates occurred for current policy records:    
    - GathRestrictAny: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
    - GathRestrict250: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
    - SchoolClose: expiry date of 20200424 was added.  

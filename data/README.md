@@ -82,8 +82,13 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
 - **Tennessee**: added expiry date of 20200511 for "EmergDec"; added "OtherBusinessClose" issued and enacted on 20200330 as the order explicitly closed services with close-personal contact. Based on the re-review, the following updates occurred for current policy records:  
     - GathRecomAny: recoded to StateWide being 0 as the recommendation was focused on only vulnerable populations and thus did not apply to the full state.    
     - NEBusinessClose: updated expiry to 20200415 since the mandate expires at 11:59 pm on 20200414.    
-    - StayAtHome: updated expiry to 20200415 since the mandate expires at 11:59 pm on 20200414.  
-- **Texas**: _in-progress_  
+    - StayAtHome: updated expiry to 20200415 for the original issuance on 20200330 (Mandate==0) since the mandate expires at 11:59 pm on 20200414.  
+- **Texas**: "Quaratine" added as issued for 20200326 and enacted on 20200328 for individuals arriving to Texas whose point of origin or last departure was from New York, New Jersey, Connecticut, or City of New Orleans; clarified states and cities covered by the "Quarantine" issued on 20200329. Based on the re-review, the following updates occurred for current policy records:    
+   - GathRestrictAny: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
+   - GathRestrict10: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
+   - OtherBusinessClose: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
+   - RestaurantRestrict: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
+   - SchoolClose: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.  
 - **Utah**: _in-progress_  
 - **Vermont**: _in-progress_  
 - **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, the following updates occurred for current policy records:    

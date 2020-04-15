@@ -89,7 +89,10 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
    - OtherBusinessClose: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
    - RestaurantRestrict: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.    
    - SchoolClose: "DateEnacted" was updated to 20200321 since it was effective as of 11:59 pm 202003204; initial expiry date of 20200404 was added.  
-- **Utah**: _in-progress_  
+- **Utah**: added "StayAtHome" recommendation ("Mandate" coded as 0) issued and enacted on 20200327. Based on the re-review, the following updates occurred for current policy records:    
+   - GathRecomAny: revised "StatePolicyType" from GathRestrictAny based on re-review of policy documents; also removed "GathRestrict100" associated with this policy record.    
+   - GathRestrictAny: revised "StatePolicyType" from a recommendation to a ban on gatherings of 10; issuance occurred on 20200317 and enactment occurred on 20200318.    
+   - RestaurantRestrict: updated "DateEnacted" to 20200319 since the policy went effect at 1159 pm on 20200318.  
 - **Vermont**: _in-progress_  
 - **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, the following updates occurred for current policy records:    
    - GathRestrict10: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.        

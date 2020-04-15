@@ -1,4 +1,5 @@
 ## Data updates log
+- **Delaware**: "DateEnacted" was revised to 20200316 for "GathRestrict50" and "RestaurantRestrict", per the first amendment of Delaware's state of emergency.  
 
 ### April 14, 2020 (2:58 pm PST)  
 **_State updates_**  
@@ -51,9 +52,19 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
     - SchoolClose: "Mandate" was recoded to 0 to reflect its advisory status; updated policy source.      
     - GathRestrictAny: updated policy source.    
     - RestaurantRestrict: updated policy source.  
-- **Colorado**: _in-progress_  
-- **Connecticut**: _in-progress_  
-- **Delaware**: _in-progress_  
+- **Colorado**: Based on the re-review, the following updates occurred for current policy records:   
+    - EmergDec: expiry date of 20200410 added; updated policy source. 
+    - SchoolClose: expiry date of 20200417 added.     
+    - RestaurantRestrict: updated policy source.  
+- **Connecticut**: Based on the re-review, the following updates occurred for current policy records:   
+    - EmergDec: expiry date of 20200909 added; updated policy source. 
+    - SchoolClose: expiry date of 20200420 added.     
+    - GatherRestrict50: expiry date of 20200430 added.     
+    - OtherBusinessClose: expiry date of 20200430 added for issuance on 20200316.      
+    - RestaurantRestrict: expiry date of 20200430 added.     
+- **Delaware**: Based on the re-review, the following updates occurred for current policy records:  
+    - SchoolClose: expiry date of 20200515 added; policy source updated.    
+    - NEBusinessClose: updated policy source.    
 - **District of Columbia**: _in-progress_  
 - **Florida**: _in-progress_  
 - **Georgia**: _in-progress_  

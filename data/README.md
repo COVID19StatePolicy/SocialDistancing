@@ -79,7 +79,7 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
     - SchoolClose: expiry date of 20200331 added.    
     - Quarantine: clarified that the quarantine applies to individuals from New Orleans, Louisiana and not the entire state. 
 - **South Dakota**: added "EmergDec" (State of Disaster declaration) issued and enacted on 20200406; added "StayAtHome" for Minnehaha and Lincoln counties (so StateWide==0) issued and enacted on 20200406; added date of expiry of 20200502 for "GathRecomAny".
-- **Tennessee**: added expiry date of 20200511 for "EmergDec". Based on the re-review, the following updates occurred for current policy records:  
+- **Tennessee**: added expiry date of 20200511 for "EmergDec"; added "OtherBusinessClose" issued and enacted on 20200330 as the order explicitly closed services with close-personal contact. Based on the re-review, the following updates occurred for current policy records:  
     - GathRecomAny: recoded to StateWide being 0 as the recommendation was focused on only vulnerable populations and thus did not apply to the full state.    
     - NEBusinessClose: updated expiry to 20200415 since the mandate expires at 11:59 pm on 20200414.    
     - StayAtHome: updated expiry to 20200415 since the mandate expires at 11:59 pm on 20200414.  

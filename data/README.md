@@ -69,10 +69,12 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
     - RestaurantRestrict: "DateEnacted" updated to 20200318 from 20200316.    
     - SchoolClose: expiry date of 20200515 added; policy source updated.    
     - NEBusinessClose: updated policy source.    
-- **District of Columbia**: _in-progress_  
-- **Florida**: _in-progress_  
-- **Georgia**: _in-progress_  
-- **Hawaii**: _in-progress_  
+- **District of Columbia**: Based on the re-review, the following updates occurred for current policy records:  
+    - SchoolClose: "DateIssued" and "DateEnacted" were updated to 20200316 (both were originally 20200320, which was second issuance regarding school closure); expiry date of 20200424 added; updated policy source.      
+    - RestaurantRestrict: expiry date of 20200401 added.  
+- **Florida**: expiry date of 20200415 was added for "SchoolClose".  
+- **Georgia**: expiry date of 20200513 was added for "EmergDec". Extensions regarding "SchoolClose" were added in the "PolicyNotes" column.    
+- **Hawaii**: expiry date of 20200520 was added for "EmergDec".   
 - **South Carolina**: _in-progress_  
 - **South Dakota**: _in-progress_  
 - **Tennessee**: _in-progress_  

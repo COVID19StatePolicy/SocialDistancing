@@ -93,7 +93,11 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
    - GathRecomAny: revised "StatePolicyType" from GathRestrictAny based on re-review of policy documents; also removed "GathRestrict100" associated with this policy record.    
    - GathRestrictAny: revised "StatePolicyType" from a recommendation to a ban on gatherings of 10; issuance occurred on 20200317 and enactment occurred on 20200318.    
    - RestaurantRestrict: updated "DateEnacted" to 20200319 since the policy went effect at 1159 pm on 20200318.  
-- **Vermont**: _in-progress_  
+- **Vermont**: expiry dates were added for the following policies:    
+   - SchoolClose: expiry date of 20200612.
+   - RestaurantRestrict: expiry date of 20200515.    
+   - GathRestrict10: expiry date of 20200515.    
+   - OtherBusinessClose: expiry date of 20200515.  
 - **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, the following updates occurred for current policy records:    
    - GathRestrict10: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.        
    - OtherBusinessClose: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.            

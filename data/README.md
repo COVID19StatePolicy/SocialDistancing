@@ -75,8 +75,10 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
 - **Florida**: expiry date of 20200415 was added for "SchoolClose".  
 - **Georgia**: expiry date of 20200513 was added for "EmergDec". Extensions regarding "SchoolClose" were added in the "PolicyNotes" column.    
 - **Hawaii**: expiry date of 20200520 was added for "EmergDec".   
-- **South Carolina**: _in-progress_  
-- **South Dakota**: _in-progress_  
+- **South Carolina**: "SchoolClose" for Kershaw and Lancaster counties was added (and thus "StateWide"==0), issued on 20200313 and enacted on 20200316. "OtherBusinessClose" was added for in-person retail stores, issued on 20200403 and enacted on 20200406. Based on the re-review, the following updates occurred for current policy records:    
+    - SchoolClose: expiry date of 20200331 added.    
+    - Quarantine: clarified that the quarantine applies to individuals from New Orleans, Louisiana and not the entire state. 
+- **South Dakota**: added "EmergDec" (State of Disaster declaration) issued and enacted on 20200406; added "StayAtHome" for Minnehaha and Lincoln counties (so StateWide==0) issued and enacted on 20200406; added date of expiry of 20200502 for "GathRecomAny".
 - **Tennessee**: _in-progress_  
 - **Texas**: _in-progress_  
 - **Utah**: _in-progress_  

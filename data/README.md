@@ -94,8 +94,11 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
    - OtherBusinessClose: "DateEnacted" updated to 20200319 per executive order for closing fitness and recreation venues; the originally entered date was for 20200318.
    - RestaurantRestrict: "DateIssued" and "DateEnacted" were updated to 20200318 per executive order for limiting restaurant operations; the originally entered dates of 20200317 for both variables were based on the order's press release and not its formal issuance.    
    - OtherBusinessClose: "DateEnacted" updated to 20200320 per executive order for closing personal care services; the originally entered date was for 20200319.  
-- **Wisconsin**: _in-progress_  
-- **Wyoming**: _in-progress_
+- **Wisconsin**: additional information was included under "PolicyNotes" for the following entries: EmergDec, SchoolClose, and GathRestrict10.    
+- **Wyoming**: Based on the re-review, the following updates occurred for current policy records:  
+   - GathRestrictAny: expiry date extension of 20200430 added; the previously included expiry date was 20200403.    
+   - GathRestrict10: expiry date extension of 20200430 added; the previously included expiry date was 20200403.    
+   - OtherBusinessClose: expiry date extension of 20200430 added; the previously included expiry date was 20200403.    
 
 
 ### April 10, 2020 (3:43 pm PST)  

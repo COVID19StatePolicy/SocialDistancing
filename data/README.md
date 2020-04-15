@@ -40,10 +40,17 @@ Our team has begun a re-review of all existing policy records by state in an eff
   
 As of today, we have completed the re-review of 23 states: Alabama through Hawaii, and South Carolina through Wyoming. All policy entries where "LastUpdated" is 20200411, 20200412, 20200413 and includes notes in the "LastUpdatedNotes" indicate an update to the prior entry. Full documentation of changes per state is in-progress:  
 
-- **Alabama**: _in-progress_  
-- **Alaska**: _in-progress_  
-- **Arkansas**: _in-progress_  
-- **California**: _in-progress_  
+- **Alabama**: "GathRestrict10" expiry date of 20200417 added.  
+- **Alaska**: "StayAtHome" for Anchorage only added (StateWide==0), issue date of 20200320, enact date of 20200322, and expiry date of 20200331. Based on the re-review, the following updates occurred for current policy records:   
+    - OtherBusinessClose: expiry date of 20200421 added.    
+    - RestaurantRestrict: expiry date of 20200421 added.    
+    - GathRestrict10 and GathRestrictAny: expiry date of 20200421 added.  
+- **Arizona**: Expiry date of 20200625 added for "SchoolClose"; updated corresponding policy source.     
+- **Arkansas**: Expiry date of 20200527 added for "SchoolClose."    
+- **California**: Based on the re-review, the following updates occurred for current policy records:   
+    - SchoolClose: "Mandate" was recoded to 0 to reflect its advisory status; updated policy source.      
+    - GathRestrictAny: updated policy source.    
+    - RestaurantRestrict: updated policy source.  
 - **Colorado**: _in-progress_  
 - **Connecticut**: _in-progress_  
 - **Delaware**: _in-progress_  

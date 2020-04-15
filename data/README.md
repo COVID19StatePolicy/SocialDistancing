@@ -4,7 +4,35 @@
 **_State updates_**  
 Our team completed its re-review of existing policy records for all 50 states and the District of Columbia. The dataset uploaded today includes all relevant revisions based on the re-review of executive orders, as well as additions of new policies not previously captured. We also deleted some entries for which no documentation existed, or if the record was fully inaccurate.  
 
-Full documentation of changes per location is in-progress. All policy entries where "LastUpdated" is 20200411, 20200412, 20200413, or 20200414 and includes notes in the "LastUpdatedNotes" indicate an update to the prior entry.
+All policy entries where "LastUpdated" is 20200411, 20200412, 20200413, or 20200414 and includes notes in the "LastUpdatedNotes" indicate an update to the prior entry. Full documentation of changes per location since April 13 is in-progress:  
+- **Idaho**: _in-progress_  
+- **Illinois**: _in-progress_  
+- **Indiana**: _in-progress_  
+- **Iowa**: _in-progress_  
+- **Kansas**: _in-progress_  
+- **Kentucky**: _in-progress_  
+- **Louisiana**: _in-progress_  
+- **Maine**: _in-progress_  
+- **Maryland**: _in-progress_  
+- **Massachusetts**: _in-progress_  
+- **Michigan**: _in-progress_  
+- **Minnesota**: _in-progress_  
+- **Mississippi**: _in-progress_  
+- **Missouri**: _in-progress_  
+- **Montana**: _in-progress_  
+- **Nebraska**: _in-progress_  
+- **Nevada**: _in-progress_  
+- **New Hampshire**: _in-progress_  
+- **New Jersey**: _in-progress_  
+- **New Mexico**: _in-progress_  
+- **New York**: _in-progress_  
+- **North Carolina**: _in-progress_  
+- **North Dakota**: _in-progress_  
+- **Ohio**: _in-progress_  
+- **Oklahoma**: _in-progress_  
+- **Oregon**: _in-progress_  
+- **Pennsylvania**: _in-progress_  
+- **Rhode Island**: _in-progress_  
 
 ### April 13, 2020 (5:49 am PST)  
 **_State updates_**  

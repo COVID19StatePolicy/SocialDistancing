@@ -85,11 +85,15 @@ As of today, we have completed the re-review of 23 states: Alabama through Hawai
    - GathRestrict10: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.        
    - OtherBusinessClose: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.            
    - RestaurantRestrict: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.   
-- **Washington**: "SchoolClose" for King, Pierce, and Snohomish counties (and thus "StateWide" coded as 0) added, issued on 20200312 and enacted on 20200317. "GathRestrictAny" and "GathRestrict250" with "StateWide" coded as 0 included with issue and enactmentment date of 20200313. Based on the re-review, the following updates occurred for current policy records:    
-   - GathRestrictAny: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
-   - GathRestrict250: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
+- **Washington**: "SchoolClose" for King, Pierce, and Snohomish counties (and thus "StateWide" coded as 0) added, issued on 20200312 and enacted on 20200317. "GathRestrictAny" and "GathRestrict250" with "StateWide" coded as 1 were added with issue and enactment dates of 20200313. Based on the re-review, the following updates occurred for current policy records:    
+   - GathRestrictAny: "StateWide" was updated to 0 as this order for 20200311 only applied to King, Pierce, and Snohomish counties.    
+   - GathRestrict250: "StateWide" was updated to 0 as this order for 20200311 only applied to King, Pierce, and Snohomish counties.    
    - SchoolClose: expiry date of 20200424 was added.  
-- **West Virginia**: _in-progress_  
+- **West Virginia**: "GathRestrictAny" and "GathRestrict10" were added, as issued on 20200323 and enacted on 20200324. Based on the re-review, the following updates occurred for current policy records:  
+   - OtherBusinessClose: "DateIssued" and "DateEnacted" were updated to 20200318 per executive order for closing casinos; the originally entered dates of 20200317 for both variables were based on the order's press release and not its formal issuance.    
+   - OtherBusinessClose: "DateEnacted" updated to 20200319 per executive order for closing fitness and recreation venues; the originally entered date was for 20200318.
+   - RestaurantRestrict: "DateIssued" and "DateEnacted" were updated to 20200318 per executive order for limiting restaurant operations; the originally entered dates of 20200317 for both variables were based on the order's press release and not its formal issuance.    
+   - OtherBusinessClose: "DateEnacted" updated to 20200320 per executive order for closing personal care services; the originally entered date was for 20200319.  
 - **Wisconsin**: _in-progress_  
 - **Wyoming**: _in-progress_
 

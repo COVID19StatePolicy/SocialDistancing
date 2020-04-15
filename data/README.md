@@ -10,7 +10,37 @@ Full documentation of changes per location is in-progress. All policy entries wh
 **_State updates_**  
 Our team has begun a re-review of all existing policy records by state in an effort to cross-check sources, relevant dates (issuance, enactment, expiry), and policy coding (i.e., classification of each policy). Since our initial effort to capture state-level distancing policies (March 20-21, 2020), documentation has markedly improved as have online compilations of executive orders on government websites and elsewhere. The primary updates we see thus far are shifting dates by one day (e.g., re-review found that a policy was enacted at 11:59 pm on 2020031, so this was updated to 20200401 for "DateEnacted"), additional or amended gathering restrictions identified through document re-review (e.g., Utah's initial GathRestrictAny on 20200312 was revised to a non-statewide GathRecomAny following re-review of declarations and orders), and additional "OtherBusinessClose" mandates.  
   
-As of today, we have completed the re-review of 23 states: Alabama through Hawaii, and South Carolina through Wyoming. Full documentation of changes per state is in-progress and will be provided here as soon as possible alongside our aim to complete the re-review for all 50 states and the District of Columbia in an expedient manner.  
+As of today, we have completed the re-review of 23 states: Alabama through Hawaii, and South Carolina through Wyoming. Full documentation of changes per state is in-progress:  
+
+- **Alabama**: _in-progress_  
+- **Alaska**: _in-progress_  
+- **Arkansas**: _in-progress_  
+- **California**: _in-progress_  
+- **Colorado**: _in-progress_  
+- **Connecticut**: _in-progress_  
+- **Delaware**: _in-progress_  
+- **District of Columbia**: _in-progress_  
+- **Florida**: _in-progress_  
+- **Georgia**: _in-progress_  
+- **Hawaii**: _in-progress_  
+- **South Carolina**: _in-progress_  
+- **South Dakota**: _in-progress_  
+- **Tennessee**: _in-progress_  
+- **Texas**: _in-progress_  
+- **Utah**: _in-progress_  
+- **Vermont**: _in-progress_  
+- **Virginia**: expiry date of 20200610 was added for "EmergDec". Based on the re-review, following updates occurred for current policy records:    
+   - GathRestrict10: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.        
+   - OtherBusinessClose: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.            
+   - RestaurantRestrict: "DateEnacted" was updated to 20200325 since it was effective as of 11:59 pm 20200324; initial expiry date of 20200424 was added.   
+- **Washington**: "SchoolClose" for King, Pierce, and Snohomish counties (and thus "StateWide" coded as 0) added, issued on 20200312 and enacted on 20200317. "GathRestrictAny" and "GathRestrict250" with "StateWide" coded as 0 included with issue and enactmentment date of 20200313. Based on the re-review, following updates occurred for current policy records:    
+   - GathRestrictAny: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
+   - GathRestrict250: "StateWide" was updated to 0 as this order only applied to King, Pierce, and Snohomish counties.    
+   - SchoolClose: expiry date of 20200424 was added.  
+- **West Virginia**: _in-progress_  
+- **Wisconsin**: _in-progress_  
+- **Wyoming**: _in-progress_
+
 
 ### April 10, 2020 (3:43 pm PST)  
 **_State updates_**

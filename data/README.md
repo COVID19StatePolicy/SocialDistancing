@@ -1,8 +1,13 @@
 ## Data updates log
+
+### April 16, 2020 (12:23 pm PST)  
+**_State updates_**  
+_Updated policy dataset pushed; documentation of updates in-progress._  
+
 ### April 15, 2020 (3:01 pm PST)  
 **_State updates_**  
 - **Delaware**: "DateEnacted" was revised to 20200316 for "GathRestrict50" and "RestaurantRestrict", per the first amendment of Delaware's state of emergency.  
-- **Pennsylvania**: Updated "OtherBusinessClose" issuance on 20200316 and enacted on 20200317 to "Mandate" as 0, as re-review identified this as a strong recommendation, not mandate, for closing entertainment, hospitality, and recreation facilities; deleted "GathRestrictAny" and "GathRestrict50" for 20200316 as they were not explicitly covered on Pennsylvania's coverage of a regional mitigation effort suggested from previous sources.
+- **Pennsylvania**: Updated "OtherBusinessClose" issuance on 20200316 and enacted on 20200317 to "Mandate" as 0, as re-review identified this as a strong recommendation, not mandate, for closing entertainment, hospitality, and recreation facilities; deleted "GathRestrictAny" and "GathRestrict50" for 20200316 as they were not explicitly covered on Pennsylvania's coverage of a regional mitigation effort suggested from previous sources.  
 
 ### April 14, 2020 (2:58 pm PST)  
 **_State updates_**  

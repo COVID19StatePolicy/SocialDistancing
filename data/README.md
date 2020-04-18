@@ -1,5 +1,9 @@
 ## Data updates log
 
+### April 18, 2020 (2:59 pm PST)  
+**_State updates_**  
+_Updated policy dataset pushed; documentation of updates in-progress._  
+
 ### April 17, 2020 (4:33 pm PST)  
 **_State updates_**  
 _Updated policy dataset pushed; documentation of updates in-progress._  

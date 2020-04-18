@@ -1,16 +1,29 @@
 ## Data updates log
 
-### April 18, 2020 (2:59 pm PST)  
+### April 18, 2020 (2:52 pm PST)  
 **_State updates_**  
 _Updated policy dataset pushed; documentation of updates in-progress._  
 
 ### April 17, 2020 (4:33 pm PST)  
 **_State updates_**  
-_Updated policy dataset pushed; documentation of updates in-progress._  
+- **Tennessee**: "SchoolClose" for the remainder of the academic year issued and enacted on 20200415.  
+- **West Virginia**: "GathRestrict5" for Cabell, Ohio, Wayne, and Wood counties (so "StateWide" coded as 0) issued on 20200410, enacted on 20200411.  
+- Extensions of currently implemented policies occurred for the following states:     
+    - **Idaho**: "StayAtHome" extended to 20200430.    
+    - **Iowa**: "GathRestrict10" extended to 20200501.    
+    - **Kansas**: "StayAtHome" extended to 20200503.    
+    - **Louisiana**: "SchoolClose" extended for another 30 days after 20200414.    
+    - **Maine**: "EmergDec" extended to 20200430.       
+    - **Mississippi**: "SchoolClose" extended to the end of the academic year.    
+    - **North Dakota**: "OtherBusinessClose" and "RestaurantRestrict" extended to 20200430.       
+    - **Oklahoma**: "StayAtHome" extended to 20200506.
+    - **Utah**: "SchoolClose"  extended to the end of the academic year.    
+    - **Virginia**: "GathRestrict10" extended to 20200508.  
 
 ### April 16, 2020 (12:23 pm PST)  
 **_State updates_**  
-_Updated policy dataset pushed; documentation of updates in-progress._  
+- **South Carolina**: Updated "DateEnacted" to 20200401 per executive order; it was previously 20200331.  
+- **Utah**: Updated "DateEnacted" to 20200317 for "GathRestrictAny" and "GathRestrict10" as the executive order indicated active immediately; it was previously 20200318.
 
 ### April 15, 2020 (3:01 pm PST)  
 **_State updates_**  

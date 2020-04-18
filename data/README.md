@@ -2,7 +2,7 @@
 
 ### April 18, 2020 (2:52 pm PST)  
 **_State updates_**  
-_Updated policy dataset pushed; documentation of updates in-progress._  
+- **Mississippi**: "StayAtHome" has been extended through 20200427. Note that some particular components of this mandate appears to have been eased since its original issuance. Our team is currently considering how to capture the important distinctions between the two ends of a mandate's status: fully extending its current expiry date and fully ending a given policy. Considerations include adding variables to reflect when and what parts of a policy are being eased. We will provide updates here and the landing page when these variables are added.
 
 ### April 17, 2020 (4:33 pm PST)  
 **_State updates_**  

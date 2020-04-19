@@ -1,8 +1,15 @@
 ## Data updates log
 
 ### April 19, 2020 (11:08 am PST)
-_Updated policy dataset pushed; documentation of updates in-progress._
-
+- **Idaho**: "Quarantine" indicating all persons entering the state of Idaho to self-quarantine for 14 days was added as part of 20200415 amendment to the state's stay-at-home order; issued and enacted on 20200415, with an initial expiry date of 20200501.  
+- Extensions of currently implemented policies occurred for the following states (as reflected in "DateExpiry"):    
+    - **District of Columbia**: "EmergDec" extended to 20200515.    
+    - **Nevada**: "SchoolClose" extended to 20200430.    
+    - **New Hampshire**: "SchoolClose" extended through the end of the academic year, which is variable across districts and school types; "DateExpiry" is currently being left blank.    
+    - **New Jersey**: "SchoolClose" extended through 20200515, which is currently being coded as 20200516; additional follow-up on documentation is in-progress.    
+    - **Oklahoma**: "SchoolClose" extended to 20200515.    
+    - **Wisconsin**: "NEBusinessClose", "SchoolClose", and "StayAtHome" extended to 20200526.  
+    
 ### April 18, 2020 (2:52 pm PST)  
 **_State updates_**  
 - **Mississippi**: "StayAtHome" has been extended through 20200427. Note that some particular components of this mandate appears to have been eased since its original issuance. Our team is currently considering how to capture the important distinctions between the two ends of a mandate's status: fully extending its current expiry date and fully ending a given policy. Considerations include adding variables to reflect when and what parts of a policy are being eased. We will provide updates here and the landing page when these variables are added.
@@ -11,7 +18,7 @@ _Updated policy dataset pushed; documentation of updates in-progress._
 **_State updates_**  
 - **Tennessee**: "SchoolClose" for the remainder of the academic year issued and enacted on 20200415.  
 - **West Virginia**: "GathRestrict5" for Cabell, Ohio, Wayne, and Wood counties (so "StateWide" coded as 0) issued on 20200410, enacted on 20200411.  
-- Extensions of currently implemented policies occurred for the following states:     
+- Extensions of currently implemented policies occurred for the following states (as reflected in "DateExpiry"):    
     - **Idaho**: "StayAtHome" extended to 20200430.    
     - **Iowa**: "GathRestrict10" extended to 20200501.    
     - **Kansas**: "StayAtHome" extended to 20200503.    

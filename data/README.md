@@ -1,5 +1,8 @@
 ## Data updates log
 
+### April 20, 2020 (6:16 am PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._
+
 ### April 19, 2020 (11:08 am PST)
 - **Idaho**: "Quarantine" indicating all persons entering the state of Idaho to self-quarantine for 14 days was added as part of 20200415 amendment to the state's stay-at-home order; issued and enacted on 20200415, with an initial expiry date of 20200501.  
 - Extensions of currently implemented policies occurred for the following states (as reflected in "DateExpiry"):    

@@ -74,6 +74,7 @@ Kaiser Family Foundation (KFF):  https://www.kff.org/health-costs/issue-brief/st
 | Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | @nwnancy | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
 | Grace Reinke  | Department of Political Science, University of Washington | reinkeg@uw.edu | | |
+| Maitreyi Sahu | Department of Health Metrics Sciences, University of Washington | msahu@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
 

@@ -1,5 +1,9 @@
 ## Data updates log
 
+### April 23, 2020 (10:49 am PST)  
+**_State updates_**  
+_Updated policy dataset pushed; documentation of updates in-progress._
+
 ### April 22, 2020 (6:12 am PST)  
 **_State updates_**  
 - **Oklahoma**: "RestaurantRestrict" issued and enacted 20200401, with an initial expiry date of 20200430.

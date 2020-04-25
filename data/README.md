@@ -1,7 +1,15 @@
 ## Data updates log
 
 ### April 25, 2020 (11:00 am PST)  
-_Updated policy dataset pushed; documentation of updates in-progress._
+**_Variable updates_**  
+Starting today, we added two categories under "StatePolicy": "CaseIsolation" and "PublicMask": Their descriptions are below, as well as on the landing page README file.    
+- **CaseIsolation**: Policy that requires individuals with confirmed COVID-19 infection (via testing) or suspected COVID-19 infection to self-isolate for a specified period of time, or when they no longer test positive for infection. This policy type may also include requirements for quarantine of individuals who have been identified as high-risk for developing COVID-19 due to their close contact to patients with confirmed or suspected infections, including sharing the same residence. This policy type is different from "Quarantine" in this dataset, which refers to policies that require self-quarantine for individuals entering a state from any or particular points of origin.  
+- **PublicMask**: Policy that requires individuals to wear masks or other mouth and nose coverings when they are outside their places of residence in the public. This policy type does not reflect requirements around mask use or other types of personal protective equipment mandated as part of business operations, either routine or under efforts to ease distancing policies to re-establish in-person operations of business establishments. 
+
+**We are also carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one. 
+
+_Full documentation of today's state updates is in-progress._
+
 
 ### April 24, 2020 (10:50 am PST)  
 No state-level policy updates were made since April 23. We archived yesterday's file and pushed new one as we were alerted of issues with blank variables in the .csv file. Note no variables were missing in the policy dataset; rather, a step in our data processing and pre-GitHub data cleaning had not occurred.

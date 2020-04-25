@@ -1,5 +1,8 @@
 ## Data updates log
 
+### April 25, 2020 (11:00 am PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._
+
 ### April 24, 2020 (10:50 am PST)  
 No state-level policy updates were made since April 23. We archived yesterday's file and pushed new one as we were alerted of issues with blank variables in the .csv file. Note no variables were missing in the policy dataset; rather, a step in our data processing and pre-GitHub data cleaning had not occurred.
 

@@ -1,5 +1,8 @@
 ## Data updates log
 
+### April 26, 2020 (12:04 pm PST)  
+_Updated policy dataset pushed; documentation of updates in-progress._
+
 ### April 25, 2020 (11:00 am PST)  
 **_Variable updates_**  
 Starting today, we added two categories under "StatePolicy": "CaseIsolation" and "PublicMask": Their descriptions are below, as well as on the landing page README file.    

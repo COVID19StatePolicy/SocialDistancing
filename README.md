@@ -46,7 +46,8 @@ Analysis of these data is also underway; interested parties should contact us (s
 - **Mandate**: Binary variable indicating whether the policy applied is a mandate (1) or is advisory or a recommendation (0). This is coded on the basis of the order's phrasing (e.g., "residents are advised to stay at home and avoid unnecessary travel" would be coded as 0 for mandate as a "StayAtHome" policy). This variable was added on March 30, 2020.   
 - **DateIssued**: Date of policy issuance. The date of signing of the policy document (e.g., executive order) was used wherever possible. Format is YYYYMMDD (e.g., March 16, 2020 is 20200316). Entries are not currently included for most non-statewide policies; this documentation is in-progress.  
 - **DateEnacted**: Date of policy enactment: the date of when the policy would be enforced, per descriptions available in policy documents. The format is YYYYMMDD. Entries are not currently included for most non-statewide policies; this documentation is in-progress.  
-- **DateExpiry**: Date of policy expiry, if or as provided in the policy issuance or executive order. This date is meant to reflect when the policy or order would be in effect until or unless additional action is taken to extend, amend, or halt its status. The format is YYYYMMDD. This documentation is in-progress, as it was added on March 29, 2020 as a variable of interest.    
+- **DateExpiry**: Date of policy expiry, if or as provided in the policy issuance or executive order. This date is meant to reflect when the policy or order would be in effect until or unless additional action is taken to extend, amend, or halt its status. The format is YYYYMMDD. This documentation is in-progress, as it was added on March 29, 2020 as a variable of interest.   
+- **DateEased**: Date the policy is eased. This date is meant to reflect when a policy is eased, relative to its original mandate. This does not reflect the timing at which a policy is actively ended; instead, this reflects the timing at which original restrictions are no as strict or comprehensive without fully ending the mandate. The format is YYYYMMDD. This variable was added April 27, 2020.    
 - **DateEnded**: Date the policy is ended. This date is meant to reflect when a policy is ended, particularly if it is halted or reversed prior to its expiry date. The format is YYYYMMDD. This documentation is in-progress.    
 - **PolicyCodingNotes**: Coder notes. Information on specific businesses closed, type of emergency declaration, potential exceptions, etc., are provided here. 
 - **PolicySource**: Currently available source for each policy issued. Sourcing by hard-copy PDF _versus_ hyperlinks is in-progress.    
@@ -57,7 +58,7 @@ Analysis of these data is also underway; interested parties should contact us (s
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.26, April 26, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.27, April 27, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US, and then supplemented with additional searches (e.g., governor websites). We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.

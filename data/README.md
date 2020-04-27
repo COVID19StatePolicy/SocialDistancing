@@ -1,5 +1,14 @@
 ## Data updates log
 
+### April 27, 2020 (6:49 am PST) 
+**_Variable updates_**  
+Starting today, we added a new variable "DateEased." Its description is below, as well as on the landing page README file.  
+- **DateEased**: Date the policy is eased. This date is meant to reflect when a policy is eased, relative to its original mandate. This does not reflect the timing at which a policy is actively ended; instead, this reflects the timing at which original restrictions are no as strict or comprehensive without fully ending the mandate. The format is YYYYMMDD.  
+
+**We are also carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one. 
+
+_Full documentation of today's state updates is in-progress._
+
 ### April 26, 2020 (12:04 pm PST)  
 _Updated policy dataset pushed; documentation of updates in-progress._
 

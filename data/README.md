@@ -1,7 +1,9 @@
 ## Data updates log
 
 ### April 28, 2020 (8:58 am PST) 
-**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one. To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Montana, Oklahoma, and South Carolina. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arkansas, Michigan, Mississippi, Ohio, Tennessee, Texas, Vermont, West Virginia), and hope to include them tomorrow or the next day.
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one.
+
+To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Montana, Oklahoma, and South Carolina. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arkansas, Michigan, Mississippi, Ohio, Tennessee, Texas, Vermont, West Virginia), and hope to include them tomorrow or the next day.
 
 _Full documentation of today's state updates is in-progress._
 

@@ -1,9 +1,19 @@
 ## Data updates log
 
+### April 29, 2020 (6:54 am PST) 
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one.
+
+To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Mississippi, Montana, Oklahoma, and South Carolina. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arkansas, Michigan, Ohio, South Dakota, Tennessee, Texas, Vermont, West Virginia), and hope to include them tomorrow or the next day.
+
+**_State updates_**  
+- **Massachusetts**: "GatherRestrict10" and "NEBusinessClose" have extended dates of expiry through 20200518.  
+- **Mississippi**: On 20200427, the statewide "NEBusinessClose" and "StayAtHome" were eased and extended to 20200511. "OtherBusinessClose" pertaining to fitness and exercise gyms as well as personal care services was eased on 20200427, allowing for curbside, delivery, or take-out services; expiry is 20200511. "OtherBusinessClose" for bowling alleys, movie theaters, and similar entertainment venues has been extended to 20200511. The following other policies have also been extended to 20200511 for "DateExpiry": GathRestrictAny, GathRestrict10, and RestaurantRestrict.  
+- **South Carolina**: The following policies have "DateExpiry" extending to 20200512: GathRestrictAny, GathRestrict5, Quarantine, OtherBusinessClose (both entries), StayAtHome.
+
 ### April 28, 2020 (8:58 am PST) 
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one.
 
-To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Montana, Oklahoma, and South Carolina. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arkansas, Michigan, Mississippi, Ohio, Tennessee, Texas, Vermont, West Virginia), and hope to include them tomorrow or the next day.
+To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Montana, Oklahoma, and South Carolina.
 
 _Full documentation of today's state updates is in-progress._
 

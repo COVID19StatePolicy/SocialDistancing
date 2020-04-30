@@ -1,5 +1,16 @@
 ## Data updates log
 
+### April 30, 2020 (7:07 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions via policy IDs on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce later today or tomorrow for a subset of states, and continue maintaining both until the "beta" dataset contains all 50 states and the District of Columbia.
+
+To date, we have captured the formal easing or ending of policies in the following states: Alaska, Colorado, Georgia, Minnesota, Mississippi, Missouri, Montana, Oklahoma, South Carolina, and Tennessee. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arkansas, Michigan, Ohio, North Dakota, South Dakota, Tennessee, Texas, Vermont, West Virginia), and hope to include them tomorrow or the next day.
+
+**_State updates_**  
+A brief summary of state updates are as follows, with additional information provided under the "LastUpdatedNotes" variable:  
+- **Missouri**: "EmergDec" (updated DateExpiry), "GathRestrict10" (updated DateExpiry), "GathRestrictAny" (updated DateExpiry), "RestaurantRestrict" (included DateEased date), "SchoolClose" (removed DateExpiry values, as it was extended to the end of the school year), "OtherBusinessClose" (new entry for 20200327), "StayAtHome" (updated DateExpiry), "PublicMask" (new entry, a recommendation).    
+- **Ohio**: "RestaurantRestrict" (DateExpiry updated).    
+- **Tennessee**: "EmergDec" (added DateExpiry), "GathRestrict10" (added DateExpiry), "GathRestrictAny" (added DateExpiry), "OtherBusinessClose" (added DateExpiry), "RestaurantRestrict" (added DateEased and DateExpiry), "SchoolClose" (updated DateIssued and DateEnacted), "NEBusinessClose" (added DateEased and DateExpiry), "OtherBusinessClose" (added DateExpiry), "StayAtHome" (added DateEased and DateExpiry), "PublicMask" (new entry, a recommendation). 
+
 ### April 29, 2020 (6:54 am PST) 
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce this in the coming days and will maintain both dataset until we can fully transition to the new one.
 

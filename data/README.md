@@ -1,5 +1,26 @@
 ## Data updates log
 
+### May 2, 2020 (9:35 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions via policy IDs on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce later today or tomorrow for a subset of states, and continue maintaining both until the "beta" dataset contains all 50 states and the District of Columbia.
+
+To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Florida, Hawaii, Illinois, Indiana, Iowa, Kansas, Maine, Michigan, Nebraska, New Hampshire, Utah, Vermont, West Virginia), and hope to include them soon.
+
+**_State updates_**  
+A brief summary of state updates are as follows, with additional information provided under the "LastUpdatedNotes" variable:  
+- **Alabama**: "RestaurantRestrict" (DateExpiry added), OtherBusinessClose (DateEased and DateExpiry added), "StayAtHome" (DateEnded included), "CaseIsolation" (DateExpiry added).  
+- **Arkansas**: "OtherBusinessClose" (new entry for casino closure), "OtherBusinessClose" (DateEased added), "RestaurantRestrict" (DateEased added), "GathRestrictAny" (new entry), "PublicMask" (new entry).  
+- **Idaho**: "EmergDec" (DateExpiry added), "GathRecommendAny" (new entry), "StayAtHome" (DateExpiry added for Blaine County), "SchoolClose" (DateExpiry removed as it is extended through the end of the 2019-2020 academic year), "GathRestrictAny" (DateEased added, DateExpiry added), "NEBusinessClose" (DateEased added, DateExpiry added), "StayAtHome" (DateEnded added for state-wide order), "PublicMask" (new entry as a recommendation), "StayAtHome" (new entry as a recommendation), "Quarantine" (new entry).  
+- **Minnesota**: "RestaurantRestrict" (DateExpiry added), "GathRestrictAny" (DateExpiry added), "StayAtHome" (DateExpiry added), "PublicMask" (DateExpiry added).  
+- **New Hampshire**: "StayAtHome" (DateExpiry added).  
+- **New Mexico**: "EmergDec" (DateExpiry updated).  
+- **North Dakota**: "OtherBusinessClose" (DateEased added, DateExpiry added for recreational facilities), "RestaurantRestrict" (DateEased added, DateExpiry added), "OtherBusinessClose" (DateEased added, DateExpiry added for close-contact personal care services), "Quarantine" (new entry).  
+- **Ohio**: "RestaurantRestrict" (DateExpiry added), "OtherBusinessClose" (DateExpiry added), "GathRestrict10" (expiry), "NEBusinessClose" (DateEased added, DateExpiry added), "StayAtHome" (DateExpiry added), "Quarantine" (DateExpiry added), "PublicMask" (DateExpiry added).  
+- **Oklahoma**: "EmergDec" (DateExpiry added).  
+- **Oregon**: "EmergDec" (DateExpiry added).  
+- **SouthDakota**: "EmergDec" (DateExpiry added), "SchoolClose" (DateEased added), "GathRestrict10" (DateEnded added), "GathRestrictAny" (DateEnded added), "StayAtHome" (DateExpiry added for the Minnehaha and Lincolon stay-at-home order).
+- **Texas**: "GathRestrict10" (DateExpiry added), "GathRestrictAny" (DateExpiry added), "OtherBusinessClose (DateEased added, DateExpiry added), "RestaurantRestrict" (DateEased added, DateExpiry added), "Quarantine" (DateEased added for mandates pertaining that apply to specific states and cities beyond Louisiana), "StayAtHome" (DateEased added, DateExpiry added).
+- **Wyoming**: "OtherBusinessClosed" (DateEased added for gymnasiums and fitness centers, DateExpiry added), "RestaurantRestrict" (DateExpiry added), "SchoolClose" (DateExpiry added), "GathRestrict10" (DateExpiry added), "GathRestrictAny" (DateExpiry added), "OtherBusinessClose" (DateEased added for close contact personal care services, DateExpiry added), "Quarantine" (new entry), "Public Mask" (new entry for a recommendation).
+
 ### May 1, 2020 (9:18 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To better capture the linkages between different policies and when they are actively being eased or ended (versus expiring), we are currently developing a "beta" policy dataset that explicilty links policy actions via policy IDs on extending, expanding, easing, and ending each mandate in response to COVID-19. This is being done alongside our current dataset. We aim to introduce later today or tomorrow for a subset of states, and continue maintaining both until the "beta" dataset contains all 50 states and the District of Columbia.
 

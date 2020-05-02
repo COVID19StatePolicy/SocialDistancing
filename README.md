@@ -17,8 +17,8 @@ Analysis of these data is also underway; interested parties should contact us (s
 - **File**: "USstatesCov19distancingpolicy.csv". Prior datasets are archived with date stamps in the format of YYYYMMDD.
 - **location_id**: State-level unique identifier per the Global Burden of Disease (GBD) study.  
 - **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
-- **StatePostal**: Two-letter state postal code. This corresponds to StatePostal in the "state_id.csv".
-- **StateName**: State name. This corresponds to StateName in "state_id.csv".
+- **StatePostal**: Two-letter state postal code.  
+- **StateName**: State name.  
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     
       - **GathRecomAny**: Any recommendation of against gathering that stops short of a formal mandate or restriction of gatherings.  Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction.    
@@ -62,8 +62,8 @@ This dataset involves the transition of each state over to each policy action li
 - **PID**: Policy id, or the unique id for each policy action. PIDs are used to link policy actions - Extends, Expands, Eases, Ends, Depends - to each other. They are six characters, with the first two characters being the two-letter state postal code and the next four being numerical format with leading zeros (i.e., PIDs of AK0001, AK0002 for two separate policies in Alaska). The numbers associated with each PID do not reflect the ordering of policy implementation, nor do they reflect the total number of mandates enacted by a given state. Multiple policy actions can come from a single executive order, and some earlier policies received "later" PIDs because they were identified upon further review. Instead, they should be viewed as **unique identifiers** for the different types of policy actions taken, which then can be linked together over time as they are extended, expanded, eased, or ended.  
 - **location_id**: State-level unique identifier per the Global Burden of Disease (GBD) study.  
 - **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
-- **StatePostal**: Two-letter state postal code. This corresponds to StatePostal in the "state_id.csv".
-- **StateName**: State name. This corresponds to StateName in "state_id.csv".    
+- **StatePostal**: Two-letter state postal code.  
+- **StateName**: State name.  
       - **States currently included**: Alaska, Georgia, Tennessee, Texas.       
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     

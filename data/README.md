@@ -3,7 +3,7 @@
 ### May 2, 2020 (12:27 pm PST)
 We are pleased to release the initial version of our "beta" policy dataset, wherein each state policy action is linked through unique policy ids and whether they extend, expand, ease, or end previous orders or actions. Documentation of the beta dataset and its variables are on the landing page README; in brief, they correspond very closely with the current dataset and primarily include additional policy action variables (Extends, Expands, Eases, Ends, Depends) that then permit linkages via policy ids (PIDs) over time. 
 
-**The first three states in this dataset are Alaska, Georgia, Mississippi, South Carolina, Tennessee, and Texas.** Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.
+**The first six states in this dataset are Alaska, Georgia, Mississippi, South Carolina, Tennessee, and Texas.** Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.
 
 **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
 

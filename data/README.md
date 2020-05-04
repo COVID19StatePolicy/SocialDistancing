@@ -1,5 +1,22 @@
 ## Data updates log
 
+### May 4, 2020 (12:27 pm PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Iowa, Maine, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Florida, Hawaii, Illinois, Indiana, Kansas, Michigan, Nebraska, New Hampshire, Utah, Vermont, West Virginia), and hope to include them soon. 
+
+We have not updated the beta dataset today (which currently includes Alaska, Georgia, Mississippi, South Carolina, Tennessee and Texas); we will push an updated dataset wiht more states tomorrow.
+
+**_State updates_**  
+- **Alabama**: "PublicMask" (new entry, advisory).  
+- **California**: "SchoolClose" (extended to the end of the year).  
+- **Connecticut**: "SchoolClose" (DateExpiry updated), "GathRestrict50" (expiry extended), "OtherBusinessClose" (applies to gyms and personal care, DateExpiry updated), "RestaurantRestrict" (DateExpiry updated), "OtherBusinessClose" (applies to retail, DateExpiry updated), "NEBusinessClose" (DateExpiry updated), "StayAtHome" (DateExpiry updated).  
+- **District of Columbia**:  DateExpiry was updated for the following policies: "EmergDec", "GathRestrict250", "GathRestrictAny", "GathRestrict50", "RestaurantRestrict", "OtherBusinessClose", "GathRestrict10", "NEBusinessClose", and "StayAtHome".   
+- **Iowa**: "RestaurantRestrict" (new entry), "OtherBusinessClose" (applies to personal care services, DateExpiry updated), "OtherBusinessClose" (applies to gyms and theaters, DateExpiry updated), "RestaurantRestrict" (DateExpiry updated).  
+- **Maine**: "EmergDec" (DateExpiry updatedd), "GathRestrictAny" (DateExpiry updated), "GathRestrictAny" (DateExpiry updated), "RestaurantRestrict" (DateExpiry updated), "NEBusinessClose" (added DateEased), "OtherBusinessClose" (DateExpiry updated), "StayAtHome" (DateExpiry updated), "Quarantine" (DateExpiry updated), "TravelRestrictEntry" (new entry), "PublicMask" (new entry).  
+- **Massachusetts**: "PublicMask" (new entry).  
+- **Michigan**: DateExpiry was updated for the following policies: "OtherBusinessClose" (applies to casinos, bars), "RestaurantRestrict", "OtherBusinessClose" (applies to personal care services), "NEBusinessClose".  
+- **Nevada**: "SchoolClose" (updated to reflect extension to the end of the year), "GathRestrictAny" (DateExpiry updated), "GathRestrict10" (DateExpiry updated), "StayAtHome" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated).
+
+
 ### May 2, 2020 (12:27 pm PST)
 We are pleased to release the initial version of our "beta" policy dataset, wherein each state policy action is linked through unique policy ids and whether they extend, expand, ease, or end previous orders or actions. Documentation of the beta dataset and its variables are on the landing page README; in brief, they correspond very closely with the current dataset and primarily include additional policy action variables (Extends, Expands, Eases, Ends, Depends) that then permit linkages via policy ids (PIDs) over time. 
 

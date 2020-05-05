@@ -1,5 +1,18 @@
 ## Data updates log
 
+### May 5, 2020 (10:27 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Iowa, Maine, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, West Virginia, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Arizona, Hawaii, Illinois, Indiana, Kansas, Michigan, Nebraska, New Hampshire, Nevada, Rhode Island, Utah, Vermont), and hope to include them soon. 
+
+**_Beta dataset updates_**
+**The beta dataset now includes 12 states:** Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Mississippi, South Carolina, South Dakota, Tennessee, Texas, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.
+
+**The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**
+- **Florida**: "StayAtHome" (DateEased added).  
+- **South Carolina**: "RestaurantRestrict" (DateEased addedd), "Quarantine" (DateEnded added).
+- **West Virginia**: added DateEased to "OtherBusinessClose", "NEBusinessClose", and "StayAtHome". "GathRestrict10" added "DateEnded" while "GathRestrict25" was added.
+
 ### May 4, 2020 (12:27 pm PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Iowa, Maine, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Florida, Hawaii, Illinois, Indiana, Kansas, Michigan, Nebraska, New Hampshire, Utah, Vermont, West Virginia), and hope to include them soon. 
 

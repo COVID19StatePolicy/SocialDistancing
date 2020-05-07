@@ -64,7 +64,7 @@ This dataset involves the transition of each state over to each policy action li
 - **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
 - **StatePostal**: Two-letter state postal code.  
 - **StateName**: State name.  
-      - **States currently included**: Alaska, Georgia, Mississippi, South Carolina, Tennessee, Texas.       
+      - **States currently included**: Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Iowa, Minnesota, Mississippi, Missouri, North Dakota, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming.     
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     
       - **GathRecomAny**: Any recommendation of against gathering that stops short of a formal mandate or restriction of gatherings.  Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction.    

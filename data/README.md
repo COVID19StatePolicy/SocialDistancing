@@ -1,9 +1,24 @@
 ## Data updates log
 
+### May 7, 2020 (10:29 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Georgia, Idaho, Iowa, Maine, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Hawaii, Illinois, Indiana, Kansas, Michigan, Nebraska, New Hampshire, Nevada, North Carolina, Pennsylvania, Rhode Island, Vermont), and hope to include them soon. 
+
+**_Beta dataset updates_**  
+- **The beta dataset now includes 17 states:** Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Iowa, Minnesota, Mississippi, Missouri, North Dakota, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  
+
+- **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**
+- **Arkansas**: "Quarantine" entry (recommendation) added; "OtherBusinessClose (DateEased for close contact personal services).  
+- **Illinois**: "StayAtHome" (DateExpiry removed, as it was extended with no formal expiry); "PublicMask" (new entry).  
+- **Iowa**: "EmergDec" (DateExpiry updated for state of disaster emergency declaration); "SchoolClose" (DateEancted and DateExpiry updated for the recommendation); "EmergDec" (updated DateIssued for the public health disaster emergency); "GathRestrict10" (DateExpiry updated); "GathRestrictAny" (DateExpiry updated); "OtherBusinessClose" (removed DateEased, updated DateExpiry for close contact personal services); "OtherBusinessClose" (updated DateExpiry and DateEased for retail stores).  
+- **Utah**: "RestaurantRestrict" (DateEased added, DateExpiry updated); "StayAtHome" (DateEnded added); "CaseIsolation" (new entry).  
+- **West Virginia**: "GathRestrict25" (new entry)
+
 ### May 6, 2020 (10:29 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arkansas, Arizona, Colorado, Florida, Georgia, Idaho, Iowa, Maine, Minnesota, Mississippi, Missouri, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Hawaii, Illinois, Indiana, Kansas, Michigan, Nebraska, New Hampshire, Nevada, North Carolina, Pennsylvania, Rhode Island, Vermont), and hope to include them soon. 
 
-We have not updated the beta dataset today (which currently includes Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Mississippi, South Carolina, South Dakota, Tennessee, Texas, and Wyoming); we will push an updated dataset wiht more states tomorrow.
+We have not updated the beta dataset today (which currently includes Alabama, Alaska, Arkansas, Colorado, Georgia, Idaho, Mississippi, South Carolina, South Dakota, Tennessee, Texas, and Wyoming); we will push an updated dataset with more states tomorrow.
 
 **_State updates_**  
 - **Arizona**: "SchoolClose" extended until the end of the school year, expiry date removed; "GathRestrictAny" and "StayAtHome" had DateExpiry updated.  

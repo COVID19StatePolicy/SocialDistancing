@@ -1,8 +1,20 @@
 ## Data updates log
 
+### May 11, 2020 (10:51 am PST)
+
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Kansas, Kentucky, Louisiana, New Hampshire, New Mexico, Pennsylvania, Rhode Island, Washington), and hope to include them soon. 
+
+**_Beta dataset updates_**  
+- **The beta dataset now includes 27 states:** Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Hawaii, Georgia, Idaho, Iowa, Maine, Minnesota, Missouri, Mississippi, Montana, Nebraska, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  
+
+- **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**
+_Full documentation in-progress_
+
 ### May 9, 2020 (9:43 am PST)
 
-**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Nevada, New Hampshire, New Mexico, Pennsylvania, Rhode Island, Washington), and hope to include them soon. 
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Nevada, New Hampshire, New Mexico, Pennsylvania, Rhode Island, Washington), and hope to include them soon. 
 
 **_Beta dataset updates_**  
 - **The beta dataset now includes 23 states:** Alabama, Alaska, Arizona, Arkansas, Colorado, Georgia, Idaho, Iowa, Maine, Minnesota, Missouri, Mississippi, Montana, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  

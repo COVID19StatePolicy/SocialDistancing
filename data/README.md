@@ -1,6 +1,6 @@
 ## Data updates log
 
-### May 11, 2020 (10:51 am PST)
+### May 11, 2020 (10:40 am PST)
 
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Kansas, Kentucky, Louisiana, New Hampshire, New Mexico, Pennsylvania, Rhode Island, Washington), and hope to include them soon. 
 

@@ -1,5 +1,31 @@
 ## Data updates log
 
+### May 12, 2020 (12:10 pm PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Louisiana, New Mexico, Washington), and hope to include them soon. 
+
+**_Beta dataset updates_**  
+We have not updated the beta dataset today (which currently includes Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Hawaii, Georgia, Idaho, Iowa, Maine, Minnesota, Missouri, Mississippi, Montana, Nebraska, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming); we will push an updated dataset with more states as well as identified updates to currently included states tomorrow.
+
+**_State updates_**
+- **Alabama**: Updated DateExpiry for: "GathRestrictAny", "OtherBusinessClose", "RestaurantRestrict", "GathRestrict10", "OtherBusinessClose", "StayAtHome", "CaseIsolation", "PublicMask".  
+- **Alaska**: "RestaurantRestrict" (updated PolicyNotes to reflect additional easing), "OtherBusinessClose" (updated PolicyNotes to reflect additional easing), "GathRestrict25" (DateEased added).  
+- **Arkansas**: "BusinessHealthSafety" (new entry), "Quarantine" (new entry).  
+- **Colorado**: "EmergDec" (DateExpiry updated), "OtherBusinessClose" (for ski resorts, DateExpiry updated)).
+- **Florida**: "OtherBusinessClose" (updated PolicyNotes to reflect additional easing).  
+- **Indiana**: "RestaurantRestrict" (DateEased added), "SchoolClose" (DateExpiry updated), "NEBusinessClose" (DateEased added).  
+- **Kentucky**: "NEBusinessClose" (DateEased added).  
+- **New Hampshire**: "RestaurantRestrict" (DateEased added), "NEBusinessClose" (DateEased added).  
+- **New Jersey**: "SchoolClose" (DateExpiry updated).  
+- **New York**: DateExpiry updated for: "GathRestrict50", "OtherBusinessClose", "RestaurantRestrict", "SchoolClose", "OtherBusinessClose", "OtherBusinessClose", "NEBusinessClose", "StayAtHome". 
+- **North Dakota**: "Case Isolation" (PolicyNotes reflect extension without an expiry date), "Quarantine" (PolicyNotes reflect extension without an expiry date).  
+- **Pennsylvania**: DateEased added: "NEBusinessClose", "OtherBusinessClose", "StayAtHome" (statewide).  DateExpiry updated for: "StayAtHome" (county-specific orders).  
+- **Rhode Island**: "OtherBusinessClose" (DateEased added), "StayAtHome" (DateEased added).  
+- **SouthCarolina**: "RestaurantRestrict" (updated PolicyNotes to reflect additional easing.  
+- **Tennessee**: "OtherBusinessClose" (DateEased added).    
+- **Vermont**: DateExpiry updated for the following policies: "RestaurantRestrict", "GathRestrict10", "OtherBusinessClose", "NEBusinessClose", "StayAtHome", "Quarantine".  
+- **Virginia**: "RestaurantRestrict" (DateExpiry updated and DateEased added), "GathRestrict10" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated and DateEased added).  
+- **Washington**: "SchoolClose" (removed DateExpiry, as schools closed through the end of the year), "NEBusinessClose" (DateExpiry updated), "StayAtHome" (DateExpiry updated).  
+
 ### May 11, 2020 (10:40 am PST)
 
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Kansas, Kentucky, Louisiana, New Hampshire, New Mexico, Pennsylvania, Rhode Island, Washington), and hope to include them soon. 
@@ -11,6 +37,7 @@
 
 **_State updates_**
 _Full documentation in-progress_
+
 
 ### May 9, 2020 (9:43 am PST)
 

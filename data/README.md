@@ -1,5 +1,20 @@
 ## Data updates log
 
+### May 13, 2020 (6:51 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Louisiana, Maryland, New Mexico, Washington), and hope to include them soon. 
+
+**_Beta dataset updates_**  
+- **The beta dataset now includes 31 states:** Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Maine, Minnesota, Missouri, Mississippi, Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  
+
+- **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**  
+- **Georgia**: "GathRestrict10" (DateEased removed, "GathRestrictAny" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated for bars and nightclubs), "OtherBusinessClose" (DateExpiry updated for gyms, fitness centers), "RestaurantRestrict" (DateExpiry updated), "StayAtHome" (DateExpiry updated), "CaseIsolation" (DateExpiry updated), "PublicMask" (DateExpiry updated).  
+- **North Carolina**: "GathRestrict100" (DateExpiry updated), "GathRestrictAny" (DateExpiry updated), "SchoolClose" (DateExpiry removed because closed until the end of the year), "GathRestrict50" (new entry), "PublicMask" (new entry).  
+- **North Dakota**: "SchoolClose" (DateEased added).  
+- **SouthCarolina**: Updated DateExpiry for the following entries: "GathRestrict50", "GathRestrictAny", "RestaurantRestrict", "GathRestrict5",   "OtherBusinessClose" (beaches), "OtherBusinessClose" (entertainment venues), "OtherBusinessClose" (retail), "StayAtHome".  
+
+
 ### May 13, 2020 (6:23 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Louisiana, New Mexico, Washington), and hope to include them soon. 
 

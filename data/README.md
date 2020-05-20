@@ -1,10 +1,27 @@
 ## Data updates log
 
+### May 20, 2020 (9:54 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured at least some form of easing or ending of policies for all states (the District of Columbia has yet to formally do so). 
+
+**_Beta dataset updates_**  
+- **The beta dataset now includes 46 states:** Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin, and Wyoming. We are working on transitioning the remaining states over the next few days.
+
+- **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**  
+- **California**: "OtherBusinessClose" (new entry for a recommendation to close gyms and health clubs on 20200316), "RestaurantRestrict" (new entry for a restriction on 20200331), "OtherBusinessClose" (new entry of other mandated business closures accompanying the NEBusinessClose).   
+- **Connecticut**: "RestaurantRestrict" (DateEased added, updated DateExpiry), "NEBusinessClose" (DateEased added), "GathRestrict10" (updated DateExpiry), "StayAtHome" (DateEased added).  
+- **Illinois**: "EmergDec" (updated DateExpiry), "SchoolClose" (updated DateExpiry), "RestaurantRestrict" (updated DateExpiry), "GathRestrict50" (added DateEnded), "GathRestrict10" (updated DateExpiry), "NEBusinessClose" (updated DateExpiry, added DateEased), "OtherBusinessClose" (updated DateExpiry), "StayAtHome" (updated DateExpiry), "PublicMask" (updated DateExpiry).  
+- **Maine**: "RestaurantRestrict" (added DateEased), "OtherBusinessClose" (added DateEased).  
+- **New Jersey**: "GathRestrict3" (added DateEased), "NEBusinessClose" (updated DateEased).  
+- **North Dakota**: "SchoolClose" (added DateEased).  
+
+
 ### May 19, 2020 (9:44 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so, and hope to include them soon. 
 
 **_Beta dataset updates_**  
-- **The beta dataset now includes 41 states:** Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, New Hampshire, New Mexico, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  
+- **The beta dataset now includes 41 states:** Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin, and Wyoming. Many other states have been transitioned to this format as well, but we are currently double-checking their linkages before pushing them to externally-facing beta dataset.  
 
 - **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
 

@@ -64,7 +64,7 @@ This dataset involves the transition of each state over to each policy action li
 - **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
 - **StatePostal**: Two-letter state postal code.  
 - **StateName**: State name.  
-      - **States currently included**: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin, and Wyomingg.  
+      - **States currently included**: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.  
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     
       - **GathRecomAny**: Any recommendation of against gathering that stops short of a formal mandate or restriction of gatherings.  Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction.    
@@ -113,7 +113,7 @@ This dataset involves the transition of each state over to each policy action li
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.47, May 20, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.48, May 21, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US, and then supplemented with additional searches (e.g., governor websites). We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.

@@ -1,6 +1,6 @@
 ## Data updates log
 
-### May 21, 2020 (10:30 am PST)
+### May 21, 2020 (10:23 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured at least some form of easing or ending of policies for all states (the District of Columbia has yet to formally do so). 
 
 **_Beta dataset updates_**  

@@ -1,5 +1,18 @@
 ## Data updates log
 
+### May 21, 2020 (10:30 am PST)
+**We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured at least some form of easing or ending of policies for all states (the District of Columbia has yet to formally do so). 
+
+**_Beta dataset updates_**  
+- **The beta dataset now includes 48 states:** Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming. We are working on transitioning the remaining states over the next few days.
+
+- **The beta dataset is titled "USstatesCov19distancingpolicyBETA.csv".** We are actively maintaining the current dataset in parallel as we transition each state over to policy ID-linked format. When this transition is complete, what is currently called "USstatesCov19distancingpolicy.csv" will be replaced by what is currently our beta dataset. We will provide regular updates on this process.
+
+**_State updates_**  
+- **Connecticut**: "EmergDec" (DateExpiry updated), "GathRestrict250"  (DateExpiry updated), "GathRestrictAny" (DateExpiry updated), "GathRestrict50" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated), "StayAtHome" (DateEnded added), "GathRestrict5" (new entry).  
+- **New York**: DateExpiry updated for the following: "EmergDec", "GathRestrict500", "GathRestrictAny", "GathRestrict50", "GathRestrict3" (also new entry), "StayAtHome", and "PublicMask".  
+- **Washington**: DateExpiry updated for the following: "GathRestrict250" (subset of counties), "GathRestrictAny" (subset of counties), "GathRestrict250" (state-wide), "SchoolClose", "GathRestrict50", "OtherBusinessClose" (also added DateEased), "RestaurantRestrict" (also added DateEased), and "NEBusinessClose" (updated DateEased as well). "GathRestrict3" and "PublicMask" are new entries.  
+
 ### May 20, 2020 (9:54 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured at least some form of easing or ending of policies for all states (the District of Columbia has yet to formally do so). 
 

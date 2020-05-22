@@ -56,7 +56,7 @@ Analysis of these data is also underway; interested parties should contact us (s
 - **LastUpdatedNotes**: Coder notes on last updates. This reflects notable changes since the last update, especially if a date has been recoded (e.g., switching to coding orders enacted at 11:59 pm on date1 to date1+1 for its enactment timing) or the "StatePolicy" type has been amended (e.g., some initial coding of "NEBusinessClose" policies were applicable to non-essential in-person retail businesses only, not all non-essential businessess as defined by state). 
 
 ## State-level policy response: _BETA DATASET_ (introduced May 2, 2020)
-This dataset involves the transition of each state over to each policy action linked by policy ids, which enables better tracking of how policies have been enacted, expanded, eased, or ended over time. Our current dataset ("USstatesCov19distancingpolicy.csv") will be maintained in parallel while we move each state over to this new format. Once that is complete, the BETA dataset will use the same file name as before. We will provide regular status updates.
+This dataset involves the transition of each state over to each policy action linked by policy ids, which enables better tracking of how policies have been enacted, expanded, eased, or ended over time. Our current dataset ("USstatesCov19distancingpolicy.csv") will be maintained in parallel while we move each state over to this new format. Once that is complete, the BETA dataset will use the same file name as before. We will provide regular status updates. 
 
 - **File**: "USstatesCov19distancingpolicyBETA.csv". Prior datasets are archived with date stamps in the format of YYYYMMDD.  
 - **PID**: Policy id, or the unique id for each policy action. PIDs are used to link policy actions - Extends, Expands, Eases, Ends, Depends - to each other. They are six characters, with the first two characters being the two-letter state postal code and the next four being numerical format with leading zeros (i.e., PIDs of AK0001, AK0002 for two separate policies in Alaska). The numbers associated with each PID do not reflect the ordering of policy implementation, nor do they reflect the total number of mandates enacted by a given state. Multiple policy actions can come from a single executive order, and some earlier policies received "later" PIDs because they were identified upon further review. Instead, they should be viewed as **unique identifiers** for the different types of policy actions taken, which then can be linked together over time as they are extended, expanded, eased, or ended.  
@@ -64,7 +64,6 @@ This dataset involves the transition of each state over to each policy action li
 - **StateFIPS**: State-level Federal Information Processing Standard (FIPS) code.    
 - **StatePostal**: Two-letter state postal code.  
 - **StateName**: State name.  
-      - **States currently included**: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.  
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     
       - **GathRecomAny**: Any recommendation of against gathering that stops short of a formal mandate or restriction of gatherings.  Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction.    
@@ -113,7 +112,7 @@ This dataset involves the transition of each state over to each policy action li
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.48, May 21, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.49, May 22, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US, and then supplemented with additional searches (e.g., governor websites). We greatly appreciate both NGA and KFF's ongoing maintenance of these in-depth resources, especially amid such rapidly evolving policy contexts.

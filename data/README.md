@@ -1,5 +1,17 @@
 ## Data updates log
 
+### May 23, 2020 (9:30 am PST)
+**_Beta dataset updates_**  
+- **The beta dataset now includes all 50 states and the District of Columbia.** We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_Beta dataset updates_**  
+- **Alabama**: "CaseIsolation" (DateExpiry updated), "PublicMask" (DateExpiry updated), "StayAtHome" (advisory, DateExpiry updated), "GathRestrict10" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated), "RestaurantRestrict" (DateExpiry updated), "SchoolClose" (DateEased added).  
+- **Florida**: "OtherBusinessClose" (fitness centers, DateEased added), "RestaurantRestrict" (further easing documented in PolicyNotes).  
+- **Hawaii**: "GathRestrict10" (DateExpiry updated), "StayAtHome" (DateExpiry updated), "GathRestrictAny" (DateExpiry updated), "PublicMask (DateExpiry updated), "TravelRestrictIntra" (DateExpiry updated), "Quarantine" (DateExpiry updated), "EmergDec" (DateExpiry updated).  
+- **Iowa**: "SchoolClose" (added DateEased)".  
+- **Kansas**: "GathRestrictAny" (DateExpiry updated), "SchoolClose" (updated DatedEased), "GathRestrict10" (added DateEased).
+- **North Carolina**: "PublicMask" (DateExpiry updated), "NEBusinessClose" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated, DateEased added), "GathRestrict10" (DateExpiry updated), "GathRestrictAny" (DateExpiry updated),  "RestaurantRestrict" (DateExpiry updated, DateEased added), "SchoolClose" (expiry).
+
 ### May 22, 2020 (9:44 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured at least some form of easing or ending of policies for all states (the District of Columbia has yet to formally do so). 
 

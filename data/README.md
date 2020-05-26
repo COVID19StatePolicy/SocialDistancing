@@ -1,10 +1,19 @@
 ## Data updates log
 
+### May 26, 2020 (9:30 am PST)
+**_Beta dataset updates_**  
+- **The beta dataset now includes all 50 states and the District of Columbia.** We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates_**  
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, California, Connecticut, Indiana, Maine, New Jersey, New York, Ohio, Oregon, Rhode Island, South Carolina, Texas, and Utah.
+
+Please refer to "LastUpdatedNotes" for 20200524 and 20200525 for the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
 ### May 23, 2020 (9:30 am PST)
 **_Beta dataset updates_**  
 - **The beta dataset now includes all 50 states and the District of Columbia.** We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 
-**_Beta dataset updates_**  
+**_State updates_**  
 - **Alabama**: "CaseIsolation" (DateExpiry updated), "PublicMask" (DateExpiry updated), "StayAtHome" (advisory, DateExpiry updated), "GathRestrict10" (DateExpiry updated), "OtherBusinessClose" (DateExpiry updated), "RestaurantRestrict" (DateExpiry updated), "SchoolClose" (DateEased added).  
 - **Florida**: "OtherBusinessClose" (fitness centers, DateEased added), "RestaurantRestrict" (further easing documented in PolicyNotes).  
 - **Hawaii**: "GathRestrict10" (DateExpiry updated), "StayAtHome" (DateExpiry updated), "GathRestrictAny" (DateExpiry updated), "PublicMask (DateExpiry updated), "TravelRestrictIntra" (DateExpiry updated), "Quarantine" (DateExpiry updated), "EmergDec" (DateExpiry updated).  

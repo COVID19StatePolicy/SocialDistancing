@@ -1,6 +1,6 @@
 ## Data updates log
 
-### May 26, 2020 (9:30 am PST)
+### May 26, 2020 (8:55 am PST)
 **_Beta dataset updates_**  
 - **The beta dataset now includes all 50 states and the District of Columbia.** We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 

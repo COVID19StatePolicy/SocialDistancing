@@ -1,7 +1,7 @@
 ## Data updates log
 
 ### May 28, 2020 (6:44 am PST)
-**_Beta dataset updates_** 
+**_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 
 **_State updates for both datasets_**  

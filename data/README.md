@@ -1,5 +1,18 @@
 ## Data updates log
 
+### June 7, 2020 (10:20 am PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Alaska, Colorado, Florida, Indiana, Louisiana, Maryland, Michigan, New Hampshire, New Mexico, and Texas.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Alaska, Arkansas, Delaware, Florida, Illinois, Indiana, Louisiana, Maryland, Michigan, New Hampshire, New Mexico, and Texas.
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200604, 20200605, and 20200606 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes. 
+
+We currently have backlog of policies issued over the last week or so in our data entry system (e.g., Hawaii's sub-county or island easings, Pennsylvania phasing orders, New York regional and state-wide easings, Washington state's Safe Start plan). Our team is actively working on processing them amid teaching responsibilities and end-of-the-quarter demands at the University of Washington. We will provide updated datasets as soon as possible.
+
 ### June 3, 2020 (8:50 am PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

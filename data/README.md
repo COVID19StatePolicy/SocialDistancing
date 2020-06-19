@@ -4,6 +4,9 @@
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 
+As of today we have added a new variable in the beta dataset: **SchoolHealthSafety**. The following definition is also provided on the landing page:  
+- **SchoolHealthSafety:** Policies or guidelines that mandate or recommend certain sanitation or safety practices in order for school buildings or grounds to be open for in-person use by students or employees. Examples of such policies or guidelines include regular sanitation schedules; desk arrangement requirements; spacing or shift procedures for student classes, meetings, and meals; rules about facial coverings or face shields in classrooms; and so on. These policies must be outlined separately from any that apply to business sectors or workplaces. They are also often instituted in relation to easing prior SchoolClose policies, so that summer school and other programs may proceed under stages of reopening.Subsequently, "SchoolHealthSafety" is often linked via "Depends" to easing of SchoolClose.
+
 **_State updates for both datasets_**  
 In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Arkansas, California, Colorado, Connecticut, Delaware, Georgia, Illinois, Indiana, Kentucky, Maine, Michigan, Missouri, Montana, Nevada, New Hampshire, New Jersey, New York, North Dakota, Ohio, Oklahoma, South Carolina, Vermont, and Washington.
 

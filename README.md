@@ -1,17 +1,14 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
-This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. 
+This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday evenings (or Tuesday mornings) and Thursday evenings (or Friday mornings) PST. 
 
 Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
 
 Analysis of these data is also underway; interested parties should contact us (see information below).
 
-![Figure](https://github.com/COVID19StatePolicy/SocialDistancing/blob/master/figure/Figure.png)
 ## Organization
-
-
 **data** : .csv files  
-**source** : Currently compiled pdf documentation of policies identified; further compilation in-progress.
+**source** : Currently compiled pdf documentation of policies identified.
 
 ## State-level policy response:
 - **File**: "USstatesCov19distancingpolicy.csv". Prior datasets are archived with date stamps in the format of YYYYMMDD.
@@ -113,7 +110,7 @@ This dataset involves the transition of each state over to each policy action li
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.58, June 19, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.59, June 23, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites, and are supplemented by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US.

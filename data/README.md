@@ -1,5 +1,18 @@
 ## Data updates log
 
+### June 29, 2020 (8:35 pm PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: California, Colorado, District of Columbia, Florida, Hawaii, New York, North Carolina, Pennsylvania, Texas, and Utah.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: California, Colorado, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, New York, North Carolina, Pennyslvania, Texas, and Utah.
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200626, 20200627, 20200628, and 20200629 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
+Note that we are actively capturing how states are now re-instating or re-expanding previously eased or ended policies (e.g., Texas closing bars and reducing occupancy limits for restaurants). This is currently reflected in the "beta" dataset ("USstatesCov19distancingpolicyBETA.csv"), and we are adding a new variable to capture this policy re-expansion for the "USstatesCov19distancingpolicy.csv" dataset this week; we will provide this update by no later than Friday, July 3.
+
 ### June 25, 2020 (4:16 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

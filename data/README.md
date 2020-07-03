@@ -1,5 +1,20 @@
 ## Data updates log
 
+### July 2, 2020 (5:56 PST)
+Today we introduce two new variables: **DateReexpanded1** in "USstatesCov19distancingpolicy.csv" and **Encourages** in "USstatesCov19distancingpolicyBETA.csv". These new variables are designed to better capture the evolving policy landscape in the US COVID-19 policy response. If or when these variables are updated in the future, we will provide updates here and on the landing page. The variable definitions are as follows:  
+- **DateReexpanded1**: First date at which a previously eased policy is re-enacted or re-instituted in some manner. This does not necessarily mean a previous restriction or closure is fully in effect again; instead, it reflects when a state starts, at minimum, re-establishing some type of mandated restriction or closure (e.g., reducing capacity limits from 50% to 25%, requiring restaurants to end indoor dining while still permitting outdoor services) after the state began lifting restrictions.  
+- **Encourages**: Binary variable that indicates policies that seek to “reopen” or “ease” the rules on businesses, sectors, or kinds of activities despite the absence of any prior formal closure of that specific sector or activity under state policy. Policies labeled with Encourages==1 are treated as a public signal of encouragement for the specified sector or activity to resume. These policies do not link to formal prior restrictions.
+
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, and Wyoming.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Arizona, California, Connecticut, Delaware, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Mississippi, Oregon, South Carolina, Utah, Vermont, West Virginia, and Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200629, 20200630, 20200701, and 20200702 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
 ### June 29, 2020 (8:35 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

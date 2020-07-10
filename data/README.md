@@ -1,6 +1,17 @@
 ## Data updates log
 
-### July 6, 2020 (5:39 PM PST)
+### July 9, 2020 (7:51 PM PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alaska, Arkansas, California, Connecticut, Florida, Idaho, Kansas, Kentucky, Massachusetts, Nebraska, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, South Dakota, Texas, Utah, Washington, and West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Arkansas, Colorado, Connecticut, Florida, Idaho, Kansas, Kentucky, Massachusetts, Nebraska, New Jersey, New York, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Washington, and West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200707, 20200708, and 20200709 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes. Note that we now have 26 states with BarRestrict broken out from previous entries.
+
+### July 6, 2020 (5:39 pm PST)
 Today we introduce one new policy type and one new variable in the "beta" dataset ("USstatesCov19distancingpolicyBETA.csv"): **BarRestrict** and **Joins**, respectively. "BarRestrict" has been broken out from previous policy entries for 22 states thus far, and we provide updates on its completion here and on the landing page. These additions' definitions are as follows:
 - **BarRestrict**: Restriction or limitation of bars, breweries, wineries, tasting rooms, and/or other venues where alcoholic beverages are consumed on-premises and sales of on-site consumption is the primary function of the venue (i.e., bars/bar areas contained within restaurants are coded within RestaurantRestrict). Coding a case as a restriction requires a formal restriction on operations (e.g., offsite consumption only, limiting services to only take-away, delivery, or curbside drop-off) or mandate for substantially reducing operations (e.g., bar closure must occur unless 10 or fewer patrons are onsite at a time and physical distancing of 6 feet or more can be maintained between parties).  
 - **Joins**: Policy id (PID) that a new mandate or policy unites with more locations at the same level of restrictions or closures. This variable is used to reflect the "joining" of locations under a given phase of easing (or expanding); for instance, if 10 counties moved to Phase 2 one week and then another 5 moved from Phase 1 to Phase 2 one week later, Joins would be used to "unite" locations under the same level of eased (or expanded) restrictions or closures. This variable is _not_ used to join different groups of eased (or expanded) business closures; it is expressly used to reflect shifts in locations under the same types of restrictions or closures.
@@ -15,7 +26,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 
 In both datasets, please refer to "LastUpdatedNotes" for 20200703, 20200704, and 20200705 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
 
-### July 2, 2020 (5:56 PM PST)
+### July 2, 2020 (5:56 pm PST)
 Today we introduce two new variables: **DateReexpanded1** in "USstatesCov19distancingpolicy.csv" and **Encourages** in "USstatesCov19distancingpolicyBETA.csv". These new variables are designed to better capture the evolving policy landscape in the US COVID-19 policy response. If or when these variables are updated in the future, we will provide updates here and on the landing page. The variable definitions are as follows:  
 - **DateReexpanded1**: First date at which a previously eased policy is re-enacted or re-instituted in some manner. This does not necessarily mean a previous restriction or closure is fully in effect again; instead, it reflects when a state starts, at minimum, re-establishing some type of mandated restriction or closure (e.g., reducing capacity limits from 50% to 25%, requiring restaurants to end indoor dining while still permitting outdoor services) after the state began lifting restrictions.  
 - **Encourages**: Binary variable that indicates policies that seek to “reopen” or “ease” the rules on businesses, sectors, or kinds of activities despite the absence of any prior formal closure of that specific sector or activity under state policy. Policies labeled with Encourages==1 are treated as a public signal of encouragement for the specified sector or activity to resume. These policies do not link to formal prior restrictions.

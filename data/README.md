@@ -1,6 +1,24 @@
 ## Data updates log
 
-### July 9, 2020 (7:51 PM PST)
+### July 13, 2020 (5:36 pm PST)
+Today we introduce a new variable in bothd datasets: **PublicMaskLevel**. Its definition is below, as well, as on the landing page:  
+- **PublicMaskLevel**: Reflects the relative applicability of mask policies to the general public across settings. We are currently only applying these categorizations to mask mandates, not recommendations; we will consider this as useful in the future. PublicMaskLevel groupings are as follows:    
+- **Mandate1**: These policies reflect a limited mask mandate, with fairly limited scope to the public (i.e., shared transportation services, certain types of stores such as retail, or in specified settings such as large gatherings where social distancing is not possible).    
+- **Mandate2**:  These policies reflect a broader mask mandate, requiring the use of masks or cloth face coverings by the public across sectors indoors or in enclosed spaces. This includes waiting in line to enter indoor spaces, as well as shared transportation.    
+- **Mandate3**:  These policies reflect mandates that require the use of masks or cloth face coverings by the public across indoor spaces, as well as outdoor settings where social distancing is not possible (i.e., at least 6 feet between individuals who are not part of the same household).
+
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Idaho, Illinois, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Nevada, New Jersey, New Mexico, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Virginia, Washington, and West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Illinois, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Nevada, New Jersey, New Mexico, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. 
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200710, 20200711, 20200712, and 20200713 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes. Note that we now have 29 states with BarRestrict broken out from previous entries.
+
+
+### July 9, 2020 (7:51 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 

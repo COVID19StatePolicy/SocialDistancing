@@ -138,7 +138,7 @@ Policy data compiled here are primarily sourced by individual state government w
 | Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | @breebangjensen | |
 | Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | @nwnancy | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
-| Christianna Parr | Department of Political Science, University of Washington | parr182@uw.edu | | |
+| Christianna Parr | Department of Political Science, University of Washington | parr182@uw.edu | @sirindahparr | |
 | Grace Reinke  | Department of Political Science, University of Washington | reinkeg@uw.edu | | |
 | Maitreyi Sahu | Department of Health Metrics Sciences, University of Washington | msahu@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |

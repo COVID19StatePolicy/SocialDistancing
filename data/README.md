@@ -12,7 +12,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 In both datasets, please refer to "LastUpdatedNotes" for 20200713, 20200714, 20200715, and 20200716 for information on the updates; if they are new entries, they will not have any notes in LastUpdatedNotes. Note that we now have 33 states with BarRestrict broken out from previous entries.
 
 ### July 13, 2020 (5:36 pm PST)
-Today we introduce a new variable in bothd datasets: **PublicMaskLevel**. Its definition is below, as well, as on the landing page:  
+Today we introduce a new variable in both datasets: **PublicMaskLevel**. Its definition is below, as well, as on the landing page:  
 - **PublicMaskLevel**: Reflects the relative applicability of mask policies to the general public across settings. We are currently only applying these categorizations to mask mandates, not recommendations; we will consider this as useful in the future. PublicMaskLevel groupings are as follows:    
   - **Mandate1**: These policies reflect a limited mask mandate, with fairly limited scope to the public (i.e., shared transportation services, certain types of stores such as retail, or in specified settings such as large gatherings where social distancing is not possible).    
   - **Mandate2**:  These policies reflect a broader mask mandate, requiring the use of masks or cloth face coverings by the public across sectors indoors or in enclosed spaces. This includes waiting in line to enter indoor spaces, as well as shared transportation.    

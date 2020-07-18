@@ -4,7 +4,7 @@ This is a routinely-maintained data repository for US state-level distancing pol
 
 Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
 
-Analysis of these data is also underway; interested parties should contact us (see information below).
+Analysis of these data is also ongoing; interested parties should contact us (see information below).
 
 ## Organization
 **data** : .csv files  

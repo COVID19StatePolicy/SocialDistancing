@@ -1,5 +1,16 @@
 ## Data updates log
 
+### July 27, 2020 (5:54 pm PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Arizona, Colorado, Delaware, District of Columbia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Nebraska, New Jersey, Ohio, Oklahoma, Pennsylvania, Utah, Vermont, West Virginia, and Wisconsin.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Arizona, Colorado, Delaware, District of Columbia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maryland, Massachusetts, Mississippi, New Jersey, Ohio, Oklahoma, Pennsylvania, Utah, Vermont, and West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200723, 20200724, 20200725 and 20200726 for information Mon the updates; if they are new entries, they will not have any notes in LastUpdatedNotes. Note that we now have all 51 states and DC with BarRestrict broken out from previous entries.
+
 ### July 23, 2020 (5:20 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

@@ -15,7 +15,7 @@ An example of this new system in application is as follows:
 
 For this example, the policy would be entered as "GathRestrict" and 10 for InGathLim, 25 for OutGathLim, 100 for InGathReligious, and 150 for OutGathReligious. In the prior system, this would likely result in two separate entries (GathRestrict10 and GathRestrict25) with additional information in PolicyCodingNotes.
 
-In recognition that this update may affect current uses of this dataset, we have included an R helper script (see code folder) to help translate this system back to the prior naming format for indoor gatherings; creating the equivalent with concurrent policy linkages for outdoor gatherings is in-proress. If you run into issues with this new system, please do not hesitate to reach out to the team.
+In recognition that this update may affect current uses of this dataset, we have included an R helper script (see "01_code" folder) to help translate this system back to the prior naming format for indoor gatherings; creating the equivalent with concurrent policy linkages for outdoor gatherings is in-proress. If you run into issues with this new system, please do not hesitate to reach out to the team.
 
 We are now in the process transitioning "USstatesCov19distancingpolicy.csv" to the new gathering system; we will provide updates as this is completed, as well as corresponding code to help work across these two formats.
 

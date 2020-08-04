@@ -4,6 +4,9 @@
 **_Gathering updates_**  
 We ae still in the process transitioning "USstatesCov19distancingpolicy.csv" to the new gathering system; we will provide updates as this is completed, as well as corresponding code to help work across these two formats.
 
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
 **_State updates for both datasets_**  
 In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: California, District of Columbia, Georgia, Indiana, Maine, Maryland, Mississippi, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Vermont, Virginia, and West Virginia.
 

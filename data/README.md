@@ -1,5 +1,16 @@
 ## Data updates log
 
+### August 3, 2020 (5:45 pm PST)
+**_Gathering updates_**  
+We ae still in the process transitioning "USstatesCov19distancingpolicy.csv" to the new gathering system; we will provide updates as this is completed, as well as corresponding code to help work across these two formats.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: California, District of Columbia, Georgia, Indiana, Maine, Maryland, Mississippi, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Vermont, Virginia, and West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Georgia, Indiana, Maine, Maryland, Mississippi, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Vermont, Virginia, and West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20200731, 20200801, and 20200802 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
 ### July 30, 2020 (5:52 pm PST)
 **_Gathering updates_**  
 Starting today we have transitioned our "BETA" dataset to a new system for capturing gathering restrictions. In the last few months, gathering restrictions have evolved to reflect a combination of indoor and outdoor restriction limits, as well as explicit exceptions for religious gatherings. To better capture these variances in a given policy while balancing dataset parsimony, we are now using a system that captures specific numerical limits in four variables (described below), and we have removed numeric labels or designations of "Any" from GathRestrict. We also now include numeric limits for what was previously only GathRecomAny in the prior system. 

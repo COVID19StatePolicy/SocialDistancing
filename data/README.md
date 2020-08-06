@@ -1,5 +1,36 @@
 ## Data updates log
 
+### August 6, 2020 (12:47 pm PST)
+**_Gathering updates_**
+Starting today we have transitioned "USstatesCov19distancingpolicy.csv" dataset to a new system for capturing gathering restrictions. Below is the previously published summary of this update as it applied to the "beta" dataset. In recognition that this update may affect current uses of this dataset, we have included an R helper script (see "01_code" folder) to help translate this system back to the prior naming format for indoor and outdoor gathering if they differ. If you run into issues with this new system, please do not hesitate to reach out to the team.
+
+_Previously posted content on the new gathering system_
+In the last few months, gathering restrictions have evolved to reflect a combination of indoor and outdoor restriction limits, as well as explicit exceptions for religious gatherings. To better capture these variances in a given policy while balancing dataset parsimony, we are now using a system that captures specific numerical limits in four variables (described below), and we have removed numeric labels or designations of "Any" from GathRestrict. We also now include numeric limits for what was previously only GathRecomAny in the prior system. 
+
+As an example: for a policy where all gatherings of more than 50 people are prohibited (previously GathRestrict50), we now enter this value - 50 - in the corresponding "GathLim" variables: InGathLim (indoor gathering restrictions), OutGathLim (outdoor gathering restrictions), InGathLimReligious (specific limits on indoor gatherings or events at houses of worship or designated religious or spiritual activities), and OutGathLimReligious (specific limits on outdoor gatherings or events at houses of worship or designated religious or spiritual activities). Note that under this system, a "GathRestrict" policy where no gatherings, of any number, are permitted is coded as 0 for corresponding "GathLim" variables. If no numeric limit is provided, these variables are blank - the equivalent of GathRestrictAny. 
+
+The new variables are as follows (and also detailed on the landing page):
+- **InGathLim**: Numeric limit for gatherings indoors. If no limit is provided, this variable is blank. If gatherings of individuals outside the same household of any number are prohibited, this is coded to 0.  
+- **OutGathLim**: Numeric limit for gatherings indoors. If no limit is provided, this variable is blank. If gatherings of individuals outside the same household of any number are prohibited, this is coded to 0. If this value does not equal "InGathLimit" for the same entry, the prior gathering coding system included two separate entries to reflect these differences.  
+- **InGathLimReligious**: Numeric limit for gatherings indoors at houses of worship or churches, as well as other types of religious, spiritual, and worship gatherings. If a location has exemptions for indoor weddings or funerals, these exemptions are noted in PolicyCodingNotes rather than reflected in this variable.  
+- **OutGathLimReligious**: Numeric limit for gatherings outdoors at houses of worship or churches, as well as other types of religious, spiritual, and worship gatherings. If a location has exemptions for outdoors weddings or funerals, these exemptions are noted in PolicyCodingNotes rather than reflected in this variable.  
+
+An example of this new system in application is as follows:  
+"_...indoor social and recreational gatherings as described in Executive Order No. XX, Section X are permitted for up to and including ten (10) people … However, religious gatherings are exempt … effective immediately, the 49-person limit on religious, spiritual and worship gatherings is raised for indoor gatherings to 25 percent of capacity of the indoor space or a maximum of 100 people, whichever is smaller, and to 150 people for outdoor gatherings..._" 
+
+For this example, the policy would be entered as "GathRestrict" and 10 for InGathLim, 25 for OutGathLim, 100 for InGathReligious, and 150 for OutGathReligious. In the prior system, this would likely result in two separate entries (GathRestrict10 and GathRestrict25) with additional information in PolicyCodingNotes.
+
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alaska, Colorado, Connecticut, District of Columbia, Indiana, Maine, Massachusetts, Mississippi, Nebraska, Nevada, New Jersey, New York, North Carolina, and Wyoming.
+
+In addition the gathering system change, for the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, Connecticut, Massachusetts, Minnesota, Mississippi, Nebraska, Nevada, New Jersey, and New York. 
+
+In both datasets, please refer to "LastUpdatedNotes" for 20200803, 20200804, and 20200805 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
+
 ### August 3, 2020 (5:45 pm PST)
 **_Gathering updates_**  
 We ae still in the process transitioning "USstatesCov19distancingpolicy.csv" to the new gathering system; we will provide updates as this is completed, as well as corresponding code to help work across these two formats.

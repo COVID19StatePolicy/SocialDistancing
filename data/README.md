@@ -1,5 +1,16 @@
 ## Data updates log
 
+### August 10, 2020 (6:39 pm PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Alaska, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Indiana, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Montana, Nevada, New Jersey, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas, Utah, Washington, West Virginia, and Wisconsin.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, and Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20200807, 20200808, and 20200809 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
 ### August 6, 2020 (12:47 pm PST)
 **_Gathering updates_**
 Starting today we have transitioned "USstatesCov19distancingpolicy.csv" dataset to a new system for capturing gathering restrictions. Below is the previously published summary of this update as it applied to the "beta" dataset. In recognition that this update may affect current uses of this dataset, we have included an R helper script (see "01_code" folder) to help translate this system back to the prior naming format for indoor and outdoor gathering if they differ. If you run into issues with this new system, please do not hesitate to reach out to the team.

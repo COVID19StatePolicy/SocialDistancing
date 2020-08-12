@@ -18,16 +18,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 - **StateName**: State name.  
 - **StatePolicy** : String variable of state policies, as described below:   
       - **EmergDec**: Emergency declaration; currently includes State of Emergency, Public Health Emergency, and Public Health Disaster declarations.     
-      - **GathRecomAny**: Any recommendation of against gathering that stops short of a formal mandate or restriction of gatherings.  Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction.    
-      - **GathRestrictAny**: Restriction of any gathering; includes formal mandate or an executive order that uses phrasing such as "prohibits all mass gatherings" (per definition of mass gathering) and "constituents must avoid gatherings of more than 100". The first issuance of a gathering restriction of any size is coded with this date.      
-      - **GathRestrict1000**: Restriction of any gathering exceeding 1000 persons; coding followed the "GathRestrict" criteria. Some mandates include exceptions for essential businesses and organizations; these cases are still coded as a restriction applicable to the general public.     
-       - **GathRestrict500**: Restriction of any gathering exceeding 500 persons; coding followed the "GathRestrict" criteria and used the same coding approach as "GathRestrict1000" (i.e., considered a restriction if applicable to the general public).      
-       - **GathRestrict250**: Restriction of any gathering exceeding 250 persons; coding followed the same criteria as above.    
-       - **GathRestrict100**: Restriction of any gathering exceeding 100 persons; coding followed the same criteria as above.    
-       - **GathRestrict50**: Restriction of any gathering exceeding 50 persons; coding followed the same criteria as above.    
-       - **GathRestrict25**: Restriction of any gathering exceeding 25 persons; coding followed the same criteria as above.         
-       - **GathRestrict10**: Restriction of any gathering exceeding 10 persons; coding followed the same criteria as above.    
-       - **GathRestrict5**: Restriction of any gathering exceeding 5 persons; coding followed the same criteria as above.    
+      - **GathRecom**: Recommendation of against gathering that stops short of a formal mandate or restriction of gatherings. Includes uses phrasing such as "advises against mass gatherings" and "constituents should avoid gatherings of more than 100" that imply a recommendation versus restriction. Numeric limits, as imposed for indoor or outdoor gatherings, as well as for religious venues or gatherings, are listed under InGath and OutGath variables.      
+      - **GathRestrict**: Restriction of gathering; includes formal mandate or an executive order that uses phrasing such as "prohibits all mass gatherings" (per definition of mass gathering) and "constituents must avoid large gatherings. Numeric limits, as imposed for indoor or outdoor gatherings, as well as for religious venues or gatherings, are listed under InGath and OutGath variables.         
        - **SchoolClose**: Formal closing of (at minimum) public schools. Where possible, additional information on types of school closings are provided in "PolicyCodingNotes".      
        - **RestaurantRestrict**: Restriction or limitation of restaurants and other venues where food is consumed on-premises. Coding a case as a restriction requires a formal restriction on operations (e.g., offsite consumption only, limiting services to only take-away, delivery, or curbside drop-off) or mandate for substantially reducing operations (e.g., restaurant closure must occur unless 10 or fewer patrons are dining at at time).      
        - **OtherBusinessClose**: Mandate to fully close operations of any category of business. Coding a case as an other business closure requires the executive order to use phrasing indicative of a mandate (e.g., "casinos must close", "operations at fitness centers and entertainment venues must cease by *date*"). A given state may have multiple cases of other business closures as they often occurred in phases (e.g., fitness centers and gyms on March 13, 2020; casinos and entertainment venues on March 15, 2020; personal service businesses like barbers and nail salons on March 19, 2020); thus, where possible, separate entries are provided for each mandate.    
@@ -120,7 +112,7 @@ This dataset involves the transition of each state over to each policy action li
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, Christopher Adolph, and John Wilkerson. "State-level social distancing policies in response to COVID-19 in the US". Version 1.73, August 10, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.73, August 10, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites, and are supplemented by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US.

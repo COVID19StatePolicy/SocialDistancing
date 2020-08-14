@@ -1,5 +1,16 @@
 ## Data updates log
 
+### August 13, 2020 (6:15 pm PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Arkansas, Colorado, Connecticut, District of Columbia, Kentucky, Louisiana, Maine, Maryland, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oklahoma, Rhode Island, South Carolina, and Utah.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Arkansas, Colorado, Connecticut, District of Columbia, Kentucky, Louisiana, Maine, Maryland, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oklahoma, Rhode Island, South Carolina, and Utah.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20200811 and 20200812 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+
 ### August 10, 2020 (6:39 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
@@ -9,7 +20,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, and Wyoming.
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20200807, 20200808, and 20200809 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20200807, 20200808, 20200809, and 20200810 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes in LastUpdatedNotes.
 
 ### August 6, 2020 (12:47 pm PST)
 **_Gathering updates_**

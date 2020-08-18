@@ -1,7 +1,7 @@
 ## Data updates log
 
 ### August 17, 2020 (5:42 pm PST)
-**_New variable update_**
+**_New variable update_**  
 In the dataset "USstatesCov19distancingpolicy.csv", we introduce a new variable today: "**DateReeased1**," a variable that seeks to capture when states ease a policy that had been re-imposed. In this particular case, Kentucky eased bar and restaurant restrictions to once again permit capacity at 50%; the governor had tightened occupancy limits after easing the initial restrictions. More detail on the variable definition can be found on the landing page.
 
 **_Beta dataset updates_**  

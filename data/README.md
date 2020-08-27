@@ -504,7 +504,7 @@ Please refer to "LastUpdatedNotes" for 20200524 and 20200525 for the updates; if
 - **Wisconsin**: Please note that the Wisconsin Supreme Court ruling on May 13 ended EO-28, which involved the state's stay-at-home order and business restrictions. Based on the ruling, we are coding the following entries with "DateEnded" as 20200513; however, these dates may change in the coming days conditional on how the state's executive branch and legislature respond. Policies ended: "NEBusinessClose", "StayAtHome", "RestaurantRestrict", "OtherBusinessClose" (entertainment venues and fitness centers), "OtherBusinessClose" (personal care services).  
 
 
-### May 13, 2020 (6:51 am PST)
+### May 14, 2020 (6:51 am PST)
 **We are carefully tracking how states are easing particular distancing policies or parts of previously mandated policies.** To date, we have captured the formal easing or ending of policies in the following states: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, North Carolina, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming. We are prioritizing others with known actions to ease or end policies, and/or those that indicated upcoming plans to do so (e.g., Illinois, Louisiana, Maryland, New Mexico, Washington), and hope to include them soon. 
 
 **_Beta dataset updates_**  

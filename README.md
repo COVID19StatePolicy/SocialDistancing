@@ -17,7 +17,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   - Stay-at-home orders      
   - Travel restrictions and travel-based quarantine orders    
   - Case-based isolation orders      
-  - Public mask mandates  
+  - Public mask mandates    
 **source** : pdf documentation of policies identified.
 
 ## Citation

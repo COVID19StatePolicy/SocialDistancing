@@ -8,7 +8,16 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 
 ## Organization
 **data** : .csv files of current and archived datasets.  
-**codebooks** :  detailed information on policies tracked and variables in each dataset.  
+**codebooks** :  detailed information on policies tracked and variables in each dataset. Policies tracked to date include:    
+  - Emergency declarations    
+  - Gathering restrictions   
+  - Restaurant restrictions    
+  - Bar restrictions    
+  - Business closures (including non-essential business closures)    
+  - Stay-at-home orders      
+  - Travel restrictions and travel-based quarantine orders    
+  - Case-based isolation orders      
+  - Public mask mandates  
 **source** : pdf documentation of policies identified.
 
 ## Citation

@@ -28,7 +28,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1
 
-## Select data applications, analyses, and coverage to date
+## Select data applications, analyses, and media coverage to date
   - _The Economist, Daily Chart_, "American states’ responses to the coronavirus follow party lines": https://www.economist.com/graphic-detail/2020/04/02/american-states-responses-to-the-coronavirus-follow-party-lines  
   
   - _Mother Jones_, "Watch How Politics Slowed Red States’ Response to the Coronavirus": https://www.motherjones.com/coronavirus-updates/2020/04/coronavirus-state-social-distancing-policy/  

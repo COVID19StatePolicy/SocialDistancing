@@ -21,12 +21,14 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   - Case-based isolation orders      
   - Public mask mandates
 
+**figure** : sample figures from current analyses.  
 **source** : pdf documentation of policies identified.
 
 ## Pre-print articles
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." https://www.medrxiv.org/content/10.1101/2020.03.30.20046326v1  
   
-  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1
+  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1  
+
 
 ![Figure](https://github.com/COVID19StatePolicy/SocialDistancing/blob/master/figure/FigureMask.png)
 
@@ -35,17 +37,26 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _Mother Jones_, "Watch How Politics Slowed Red States’ Response to the Coronavirus": https://www.motherjones.com/coronavirus-updates/2020/04/coronavirus-state-social-distancing-policy/  
   
-  - _Newsweek_, "States with Republican Governors Delayed Action on Social Distancing Measures, Study Finds": https://www.newsweek.com/states-republican-governors-more-trump-voters-social-distancing-measures-delayed-1495181
+  - _Newsweek_, "States with Republican Governors Delayed Action on Social Distancing Measures, Study Finds": https://www.newsweek.com/states-republican-governors-more-trump-voters-social-distancing-measures-delayed-1495181  
   
-  - _Imperial College London_, "Report 23: State-level tracking of COVID-19 in the United States": https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/  
+  - sars2pack R package: https://github.com/seandavi/sars2pack  
   
   - _COVID-19 Exit Strategy_, mask mandates: https://www.covidexitstrategy.org/   
   
   - _COVID-19 Mobility Data Network_, state-level interventions: https://visualization.covid19mobility.org/?date=2020-09-01&dates=2020-06-01_2020-09-01&region=USA  
   
-  - _IHME COVID-19 Forecasting Team_, "COVID-19 scenarios for the United States": https://www.medrxiv.org/content/10.1101/2020.07.12.20151191v1    
+  - _Imperial College London_, "Report 23: State-level tracking of COVID-19 in the United States." https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/  
   
-  - sars2pack R package: https://github.com/seandavi/sars2pack  
+  - _IHME COVID-19 Forecasting Team_, "COVID-19 scenarios for the United States." https://www.medrxiv.org/content/10.1101/2020.07.12.20151191v1    
+  
+  - Unwin et al, 2020. "State-level tracking of COVID-19 in the United States." https://www.medrxiv.org/content/10.1101/2020.07.13.20152355v1?rss=1%22  
+  
+  - Krishnamachari et al, 2020. "Effects of Government Mandated Social Distancing Measures on Cumulative Incidence of COVID-19 in the United States and its Most Populated Cities." https://www.medrxiv.org/content/10.1101/2020.05.22.20110460v1  
+
+  - Gupta et al, 2020. "Tracking Public and Private Responses to the COVID-19 Epidemic: Evidence from State and Local Government Actions." _NBER Working Paper No. 27027_: https://www.nber.org/papers/w27027  
+  
+  - Lipsitz & Pop-Eleches, 2020. "The Partisan Divide in Social Distancing." https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595695  
+  
 
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    

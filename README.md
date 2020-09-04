@@ -64,9 +64,9 @@ As the data are updated regularly, please check any relevant updates here:
 Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.80, September 3, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
-Policy data compiled here are primarily sourced by individual state government websites, and are supplemented by the National Governors Association (NGA) and Kaiser Family Foundation (KFF) online resources for coronavirus response in the US.
+Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  
 
-**Specific contributors**
+**Current contributors**
 
 | Name  | Affiliation | Email | Twitter | GitHub |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -75,11 +75,10 @@ Policy data compiled here are primarily sourced by individual state government w
 | Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | @breebangjensen | |
 | Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | @nwnancy | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
-| Christianna Parr | Department of Political Science, University of Washington | parr182@uw.edu | @sirindahparr | |
 | Grace Reinke  | Department of Political Science, University of Washington | reinkeg@uw.edu | | |
-| Maitreyi Sahu | Department of Health Metrics Sciences, University of Washington | msahu@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
+_Prior contributors include Christianna Parr (Department of Political Science) and Maitreyi Sahu (Department of Health Metrics Sciences)._
 
 ## Terms of use:
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2020 by the COVID-19 State Policy Team, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon publicly available data from multiple sources that do not always agree. The COVID-19 State Policy Team hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited.

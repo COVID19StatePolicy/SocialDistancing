@@ -1,6 +1,6 @@
 ## Data updates log
 
-**_From September 4 to 21, 2020, regular data updates may be delayed or less comprehensive than usual due to team transitions. 
+**_From September 4 to 21, 2020, regular data updates may be delayed or less comprehensive than usual due to team transitions.  
 Please contact us via email if you have any data questions, concerns, or requests in the interim._**
 
 ### September 3, 2020 (5:18 pm PST)

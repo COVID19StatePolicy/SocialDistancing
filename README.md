@@ -42,6 +42,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _Newsweek_, "States with Republican Governors Delayed Action on Social Distancing Measures, Study Finds": https://www.newsweek.com/states-republican-governors-more-trump-voters-social-distancing-measures-delayed-1495181  
   
+  - _Washingon Post_, "Governor’s political party is biggest factor in whether a state has imposed mask mandate, study finds": https://www.washingtonpost.com/health/coronavirus-masks-politics-study/2020/09/03/00c5d32a-edf3-11ea-b4bc-3a2098fc73d4_story.html  
+  
   - sars2pack R package: https://github.com/seandavi/sars2pack  
   
   - _COVID-19 Exit Strategy_, mask mandates: https://www.covidexitstrategy.org/   
@@ -55,6 +57,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   - Unwin et al, 2020. "State-level tracking of COVID-19 in the United States." https://www.medrxiv.org/content/10.1101/2020.07.13.20152355v1?rss=1%22  
   
   - Krishnamachari et al, 2020. "Effects of Government Mandated Social Distancing Measures on Cumulative Incidence of COVID-19 in the United States and its Most Populated Cities." https://www.medrxiv.org/content/10.1101/2020.05.22.20110460v1  
+  
+  - White & Hébert-Dufresne, 2020. "State-level variation of initial COVID-19 dynamics in the United States: The role of local government interventions." https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1  
 
   - Gupta et al, 2020. "Tracking Public and Private Responses to the COVID-19 Epidemic: Evidence from State and Local Government Actions." _NBER Working Paper No. 27027_: https://www.nber.org/papers/w27027  
   

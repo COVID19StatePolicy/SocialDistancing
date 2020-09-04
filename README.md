@@ -62,6 +62,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 
   - Gupta et al, 2020. "Tracking Public and Private Responses to the COVID-19 Epidemic: Evidence from State and Local Government Actions." _NBER Working Paper No. 27027_: https://www.nber.org/papers/w27027  
   
+   - Lane et al, 2020. "Strengthening Policy Coding Methodologies to Improve COVID-19 Disease Modeling and Policy Responses: A Proposed Coding Framework and Recommendations." https://www.medrxiv.org/content/10.1101/2020.08.12.20173740v1  
+  
   - Lipsitz & Pop-Eleches, 2020. "The Partisan Divide in Social Distancing." https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595695  
   
 

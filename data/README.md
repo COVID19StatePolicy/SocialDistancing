@@ -3,6 +3,17 @@
 **_From September 4 to 21, 2020, regular data updates may be delayed or less comprehensive than usual due to team transitions.  
 Please contact us via email if you have any data questions, concerns, or requests in the interim._**
 
+### September 17, 2020 (3:39 pm PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Arizona, California, Connecticut, Louisiana, Montana, Nebraska, New Hampshire, New Jersey, New York, Oregon, Pennsylvania, Rhode Island, Tennessee, Utah, Virginia, Washington, West Virginia, and Wyoming.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: California, Colorado, Connecticut, Louisiana, Nebraska, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, Virginia, West Virginia, and Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20200914, 20200915, 20200916, and 20200917 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 ### September 13, 2020 (4:11 pm PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

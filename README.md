@@ -3,7 +3,7 @@
 **_From September 4 to 21, 2020, regular data updates may be delayed or less comprehensive than usual due to team transitions. 
 Please contact us via email if you have any data questions, concerns, or requests in the interim._**
 
-This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday evenings (or Tuesday mornings) and Thursday evenings (or Friday mornings) PST. 
+This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday afternoons/evenings and Thursday afternoons/evenings PST. 
 
 Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
 

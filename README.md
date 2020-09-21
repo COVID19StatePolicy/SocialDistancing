@@ -1,8 +1,5 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
-**_From September 4 to 21, 2020, regular data updates may be delayed or less comprehensive than usual due to team transitions. 
-Please contact us via email if you have any data questions, concerns, or requests in the interim._**
-
 This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday afternoons/evenings and Thursday afternoons/evenings PST. 
 
 Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
@@ -27,7 +24,10 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 **figure** : sample figures from current analyses.  
 **source** : pdf documentation of policies identified.
 
-## Pre-print articles
+## Articles
+  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. 2020. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." _Journal of Health Politics, Policy and Law._ Online first, print forthcoming: https://read.dukeupress.edu/jhppl/article/doi/10.1215/03616878-8802162/166718/Pandemic-Politics-Timing-State-Level-Social  
+ 
+ _Pre-prints_  
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." https://www.medrxiv.org/content/10.1101/2020.03.30.20046326v1  
   
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1  
@@ -70,7 +70,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.83, September 17, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.84, September 21, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  

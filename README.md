@@ -87,6 +87,7 @@ Policy data compiled here are primarily sourced by individual state government w
 | Kenya Amano  | Department of Political Science, University of Washington  | kamano@uw.edu | | |
 | Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | @breebangjensen | |
 | Rachel Castellano  | Department of Political Science, University of Washington  | rcastell@uw.edu | | |
+| Megan Erickson  | Department of Political Science, University of Washington  | meganke@uw.edu | | |
 | Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | @nwnancy | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
 | Grace Reinke  | Department of Political Science, University of Washington | reinkeg@uw.edu | | |

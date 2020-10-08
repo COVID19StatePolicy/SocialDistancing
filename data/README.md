@@ -1,5 +1,17 @@
 ## Data updates log
 
+### October 8, 2020 (12:55 PM PST)
+**_Beta dataset updates_**  
+We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Colorado, Connecticut, District of Columbia, Florida, Hawaii, Idaho, Illinois, Iowa, Kentucky, Maine, New Jersey, New York, Pennyslvania, Rhode Island, South Carolina, West Virginia, and Wisconsin.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, Connecticut, District of Columbia, Florida, Hawaii, Idaho, Illinois, Iowa, Kentucky, Maine, New Jersey, New York, Pennyslvania, Rhode Island, South Carolina, West Virginia, and Wisconsin.
+
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201005, 20201006, and 20201007 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 ### October 5, 2020 (2:04 PM PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

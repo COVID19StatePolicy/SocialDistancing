@@ -70,6 +70,12 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Lipsitz & Pop-Eleches, 2020. "The Partisan Divide in Social Distancing." https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595695  
   
+  - Arnon et al, 2020. "Epidemiological and economic effects of lockdown." _Brookings Papers on Economic Activity_: https://www.brookings.edu/bpea-articles/epidemiological-and-economic-effects-of-lockdown/  
+  
+  - Porcher & Renault, 2020. "Social Distancing Beliefs and Human Mobility: Evidence from Twitter." https://arxiv.org/abs/2008.04826  
+  
+  - Patterson, 2020. "The Politics of Pandemics: the Effect of Stay-At-Home Orders on COVID-19 Mitigation." https://static1.squarespace.com/static/560f0d36e4b07a0a28daec1c/t/5f46d6d4f556d839f825ddbd/1598478036871/Politics_of_Pandemics.pdf  
+  
 
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    

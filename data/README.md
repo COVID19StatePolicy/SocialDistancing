@@ -5,9 +5,9 @@
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.
 
 **_State updates for both datasets_**  
-In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Hawaii, Idaho, Illinois, Mississippi, Oregon, Rhode Island, South Carolina, West Virginia, and Wisconsin. 
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Idaho, Illinois, Mississippi, Oregon, Rhode Island, South Carolina, West Virginia, and Wisconsin. 
 
-In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Hawaii, Idaho, Illinois, Mississippi, Oregon, Rhode Island, and Wisconsin.
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Idaho, Illinois, Mississippi, Oregon, Rhode Island, and Wisconsin.
 
 In both datasets, please refer to "LastUpdatedNotes" for entries with 20201026, 20201027, and 20201028 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
 

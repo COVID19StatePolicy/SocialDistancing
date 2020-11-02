@@ -1,5 +1,18 @@
 ## Data updates log
 
+### November 2, 2020 (10:39 AM PST)
+**_Dataset updates_**  
+Starting today, we have transitioned from using "GathRecom" with Mandate==0 to "GathRestrict" with a Mandate==0 in both datasets. User feedback indicated that having a single gathering policy type and using applicable variables in the datasets. Helper code is available under ~/01_code to assist with this.
+
+Starting on Thursday, we will be launching several variables to better capture variations in levels of business restrictions (e.g., fully closed, outdoor only, indoor services permitted), school closures, and how different policies to different locations (e.g., states under a given travle quarantine policy, state-coordinated county-level restrictions). Transitioning each state to this new format will not occur immediately due to the need to go through each previous policy and ensure its proper coding. We have variables reflecting when a state has completed this transition in both datasets, and we will seek to communicate updates as clearly as possible; updated codebooks will also be published on Thursday. Please do not hesitate to contact us if you have any questions.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alaska, Arizona, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maine, Maryland, Missouri, Montana, Nebraska, Nevada, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, and Wisconsin.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maine, Maryland, Missouri, Montana, Nebraska, Nevada, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, and West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201029, 20201030, 20201031, and 20201101 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 ### October 29, 2020 (1:31 PM PST)
 **_Beta dataset updates_**  
 We are still actively maintaining the current dataset in parallel as we develop scripts to easily transform the beta dataset ("USstatesCov19distancingpolicyBETA.csv") into the current dataset's format. We will provide regular updates on this process.

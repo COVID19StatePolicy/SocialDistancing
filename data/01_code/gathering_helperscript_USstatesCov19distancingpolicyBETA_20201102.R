@@ -1,5 +1,5 @@
 #Author: University of Washington COVID-19 State Policy Team
-#Date: August 6, 2020
+#Date: November 2, 2020
 #Purpose: Helper script for new gathering restriction coding system for "USstatesCov19distancingpolicyBETA.csv"
 
 #############################
@@ -43,13 +43,21 @@ data <- read.csv(paste0(main_direct,file_name), header=TRUE, stringsAsFactors = 
 #data <- read.csv(url(file_name))
 
 ###################################################
+#####GATHERING RECOMMENDATIONS#####################
+##################################################
+
+#####Removed "GathRecom" as a StatePolicy option
+data <- data %>%
+          mutate(StatePolicy=ifelse(StatePolicy=="GathRestrict" & Mandate==0, "GathRecom", StatePolicy))
+
+###################################################
 #####(RE)CREATING PRIOR GATHERING LABELS############
 ##################################################
 
 ####New system to prior system: adding numerical gathering limits to GathRestrict and "Any"
 #Step 1: Subsetting to gathering restrictions and recommendations
 gath_labels <- data %>%
-  dplyr::select(PID, StatePolicy, StatePolicyOld, InGathLim, OutGathLim, InGathLimReligious, OutGathLimReligious) %>%
+  dplyr::select(PID, StatePolicy, InGathLim, OutGathLim, InGathLimReligious, OutGathLimReligious) %>%
   filter(StatePolicy=="GathRestrict" | StatePolicy=="GathRecom")
 
 #Step 2: Adding values and "Any" for indoor gatherings

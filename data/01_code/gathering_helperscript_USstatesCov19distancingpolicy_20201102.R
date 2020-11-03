@@ -1,5 +1,5 @@
 #Author: University of Washington COVID-19 State Policy Team
-#Date: August 6, 2020
+#Date: November 2, 2020
 #Purpose: Helper script for new gathering restriction coding system for "USstatesCov19distancingpolicy.csv"
 
 #############################
@@ -41,6 +41,14 @@ data <- read.csv(paste0(main_direct,file_name), header=TRUE, stringsAsFactors = 
 
 #Load data
 #data <- read.csv(url(file_name))
+
+###################################################
+#####GATHERING RECOMMENDATIONS#####################
+##################################################
+
+#####Removed "GathRecom" as a StatePolicy option
+data <- data %>%
+          mutate(StatePolicy=ifelse(StatePolicy=="GathRestrict" & Mandate==0, "GathRecom", StatePolicy))
 
 ###################################################
 #####(RE)CREATING PRIOR GATHERING LABELS############

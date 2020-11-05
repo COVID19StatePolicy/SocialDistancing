@@ -1,1 +1,3 @@
-Please refer to the pdf "State COVID-19 policy documentation, Fall 2020" for the latest codebook and documentation (_last updated on November 5, 2020_).
+Please refer to the file "State COVID-19 policy documentation, Fall 2020.pdf" for the latest codebook and documentation.
+
+Prior documentation is under ~/00_archive (as of November 5, 2020).

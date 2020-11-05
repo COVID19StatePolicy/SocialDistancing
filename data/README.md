@@ -1,4 +1,22 @@
-## Data updates log
+## Data updates log  
+
+### November 5, 2020 (11:23 AM PST)  
+**_Dataset updates_**  
+Starting today, we have launched several updates for both datasets (as summarized below). Full documentation can be found under ~/codebooks from the landing page. New variables in both datasets include:
+  - **BusinessRestrictLevel**: Reflects broad categories of business restrictions. This variable was introduced to better reflect the main differences in permitted business operations that have emerged over the course of the US COVID-19 epidemic: full closure ("FullClose"), curbside or takeaway only ("TakeawayOnly"), permission for in-person outdoor services only ("OutdoorOnly"), and permission for in-person indoor services ("IndoorAllowed).    
+  - **SchoolRestrictLevel**: Reflects a broad categories of school closures and restrictions. This variable was introduced in an effort to better reflect the main differences in permitted school operations that have emerged over the course of the US COVID-19 epidemic: no in-person instruction or activities permitted ("NoInPerson"), some in-person instruction or activities can occur (e.g., hybrid model, on-campus extracurricular activities) ("LimitedInPerson"), and in-person instruction allowed ("InPersonAllowed").  
+  - Under **StatePolicy**, we are now aiming to track requirements on employee mask use at businesses ("BusinessMask") and mandates for mask use for at least K-12 schools ("SchoolMask").
+  
+ Under the "BETA" dataset, we also now include **"AppliesTo"** to capture a string of locations to which a policy applies if it is a state-coordinated county policy (StateWide==0 & SWGeo==0) or if it is a travel restriction applied to specific states and the District of Columbia (StateWide==1). 
+
+We have transitioned 4 states to this format: Idaho, Missouri, Montana, and South Dakota. This designation is reflected under "ReReviewed" coded as 1; states that have not yet been transitioned to this format have 0 under "ReReviewed." We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., California, Colordao, Michigan, and Utah). We aim to get through these states as soon as possible; we appreciate your patience.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: District of Columbia, Florida, Georgia, Idaho, Illinois, Maryland, Massachusetts, Missouri, Montana, New Hamsphire, Pennyslvania, Rhode Island, South Dakota, Tennessee, West Virginia, and Wyoming.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: District of Columbia, Florida, Georgia, Idaho, Indiana, Maine, Maryland, Massachusetts, Missouri, Montana, New Hampshire, Pennsylvania, Rhode Island, South Dakota, Tennessee, and Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201102, 20201103, and 20201104 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
 
 ### November 2, 2020 (10:39 AM PST)
 **_Dataset updates_**  

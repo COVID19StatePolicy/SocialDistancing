@@ -32,8 +32,6 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1  
 
-![Figure](https://github.com/COVID19StatePolicy/SocialDistancing/blob/master/figure/FigureMask.png)
-
 ## Presentations  
   - Christopher Adolph. May 2020. "Pandemic Politics: State-Level Social Distancing Responses to COVID-19" as part of University of Washington's faculty panel on State Politics and Coronavirus Pandemic (4:04-35:17 on the video): https://www.youtube.com/watch?v=IZIdaGGpryI  
   
@@ -42,6 +40,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   - Christopher Aolph & Beatrice Magistro. October 2020. "Pandemic Politics: Understanding State-level Policy Responses to COVID-19" as part of the University of Washington's Population Research Discovery Seminars with a focus on Policy Analytics and Population Health. https://washington.zoom.us/rec/play/-vwtP0SF0yISKxJAkZ3z64yVa65tjPfx82m4qXAny3jn7OiQqmcPPo5HetYCoEfww0CyRwYVEo8cKQPf.MRZL4bae-UU0AB2n?continueMode=true&_x_zm_rtaid=s5xJrbjXRO65fNZA7waNug.1604005983404.339a753174171065c0990cfe424ba44a&_x_zm_rhtaid=788  
   
   - COVID Exit Strategy press call. October 2020. https://www.youtube.com/watch?v=4BqfzKldqXY&feature=youtu.be
+
+![Figure](https://github.com/COVID19StatePolicy/SocialDistancing/blob/master/figure/FigureMask.png)
 
 ## Select data applications, analyses, and media coverage to date
   - _The Economist, Daily Chart_, "American states’ responses to the coronavirus follow party lines": https://www.economist.com/graphic-detail/2020/04/02/american-states-responses-to-the-coronavirus-follow-party-lines  

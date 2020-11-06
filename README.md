@@ -60,7 +60,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _Imperial College London_, "Report 23: State-level tracking of COVID-19 in the United States." https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/  
   
-  - _IHME COVID-19 Forecasting Team_, "COVID-19 scenarios for the United States." https://www.medrxiv.org/content/10.1101/2020.07.12.20151191v1    
+  - _IHME COVID-19 Forecasting Team_, 2020. "Modeling COVID-19 scenarios for the United States." _Nature Medicine_: https://www.nature.com/articles/s41591-020-1132-9
   
   - Unwin et al, 2020. "State-level tracking of COVID-19 in the United States." https://www.medrxiv.org/content/10.1101/2020.07.13.20152355v1?rss=1%22  
   

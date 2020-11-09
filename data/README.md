@@ -1,5 +1,16 @@
 ## Data updates log  
 
+### November 9, 2020 (2:52 PM PST)  
+**_Dataset updates_**  
+As of today, we have fully transitioned 6 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Idaho, Missouri, Montana, New Mexico, South Dakota, and Utah. We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., California, Colordao, Michigan). We aim to get through these states as soon as possible; we appreciate your patience.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Connecticut, District of Columbia, Idaho, Illinois, Kentucky, Massachusetts, Missouri, Montana, New Jersey, New Mexico, Pennsylvania, Rhode Island, South Carolina, Utah, Vermont, Virginia, and West Virignia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Connecticut, District of Columbia, Idaho, Illinois, Kentucky, Massachusetts, Missouri, New Jersey, New Mexico, Pennsylvania, Rhode Island, and Utah.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201105, 20201106, 20201107, and 20201108 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 ### November 5, 2020 (11:23 AM PST)  
 **_Dataset updates_**  
 Starting today, we have launched several updates for both datasets (as summarized below). Full documentation can be found under ~/codebooks from the landing page. New variables in both datasets include:

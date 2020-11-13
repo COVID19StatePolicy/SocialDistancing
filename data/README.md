@@ -1,5 +1,18 @@
 ## Data updates log  
 
+### November 12, 2020 (5:09 PM PST)  
+**_Dataset updates_**  
+As of today, we have fully transitioned 10 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Colorado, Idaho, Iowa, Kansas, Missouri, Montana, New Mexico, South Dakota, Utah, and Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., California, New York, Michigan). We aim to get through these states as soon as possible; we appreciate your patience.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Colorado, Connecticut, Iowa, Kansas, Louisiana, Maine, Nebraska, Nevada, Rhode Island, Texas, and Wisconsin.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Colorado, Iowa, Kansas, Louisiana, Maine, Nebraska, Nevada, Rhode Island, Texas, and Wisconsin.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201109, 20201110, and 20201111 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 ### November 9, 2020 (2:52 PM PST)  
 **_Dataset updates_**  
 As of today, we have fully transitioned 6 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Idaho, Missouri, Montana, New Mexico, South Dakota, and Utah. We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., California, Colordao, Michigan). We aim to get through these states as soon as possible; we appreciate your patience.

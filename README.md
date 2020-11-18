@@ -94,16 +94,13 @@ Policy data compiled here are primarily sourced by individual state government w
 | Name  | Affiliation | Email | Twitter | GitHub |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
-| Kenya Amano  | Department of Political Science, University of Washington  | kamano@uw.edu | | |
-| Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | @breebangjensen | |
 | Rachel Castellano  | Department of Political Science, University of Washington  | rcastell@uw.edu | | |
 | Megan Erickson  | Department of Political Science, University of Washington  | meganke@uw.edu | | |
 | Nancy Fullman  | Department of Health Metrics Sciences, University of Washington | nf4@uw.edu | @nwnancy | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
-| Grace Reinke  | Department of Political Science, University of Washington | reinkeg@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
-_Prior contributors include Christianna Parr (Department of Political Science) and Maitreyi Sahu (Department of Health Metrics Sciences)._
+_Prior contributors include Kenya Amano, Bree Bang-Jensen, Christianna Parr, and Grace Reinke (Department of Political Science), and Maitreyi Sahu (Department of Health Metrics Sciences)._
 
 ## Terms of use:
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2020 by the COVID-19 State Policy Team, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon publicly available data from multiple sources that do not always agree. The COVID-19 State Policy Team hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited.

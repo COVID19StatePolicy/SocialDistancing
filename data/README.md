@@ -7,7 +7,6 @@ As of today, we have fully transitioned 14 states to the dataset format inclusiv
 We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., California, New York, Michigan, Washingotn state). We aim to get through these states as soon as possible (i.e., we're working on these states' format transitions at present); we appreciate your patience. If you have any inquiries or questions about the datasets, please do not hesitate to contact us.
 
 **_State updates for both datasets_**  
-
 In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alaska, Connecticut, Hawaii, Iowa, Massachusetts, Minnesota, New Hampshire, New Jersey, North Dakota, Oklahoma, Rhode Island, and South Carolina. 
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Connecticut, Hawaii, Iowa, Massachusetts, Minnesota, New Hampshire, New Jersey, Oklahoma, Rhode Island, and South Carolina.

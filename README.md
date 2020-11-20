@@ -52,6 +52,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _Washingon Post_, "Governor’s political party is biggest factor in whether a state has imposed mask mandate, study finds": https://www.washingtonpost.com/health/coronavirus-masks-politics-study/2020/09/03/00c5d32a-edf3-11ea-b4bc-3a2098fc73d4_story.html  
   
+  - _Kaiser Health News_, "Wear a Mask. If Only It Were That Simple.": https://khn.org/news/mask-wearing-enforcement-not-so-simple/
+  
   - _Kaiser Health News_, "Trump's Lame-Duck Status Leaves Governors to Wing It on COVID": https://khn.org/news/lame-duck-president-trump-governors-winging-covid-protection-measures/  
   
   - sars2pack R package: https://github.com/seandavi/sars2pack  

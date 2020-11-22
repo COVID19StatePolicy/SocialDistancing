@@ -56,6 +56,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _Kaiser Health News_, "Trump's Lame-Duck Status Leaves Governors to Wing It on COVID": https://khn.org/news/lame-duck-president-trump-governors-winging-covid-protection-measures/  
   
+  - _Popular Science_, "When states mandate masks, fewer people catch COVID-19": https://www.popsci.com/story/health/masks-states-mandates/  
+  
   - sars2pack R package: https://github.com/seandavi/sars2pack  
   
   - _COVID-19 Exit Strategy_, mask mandates: https://www.covidexitstrategy.org/   

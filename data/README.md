@@ -1,6 +1,19 @@
 ## Data updates log  
 
-_Due to holidays this week, we will not be making our usual Thursday data update. The next data update will occur on Monday, November 30._
+### December 1, 2020 (6:41 am PST)
+_Our apologies for the delayed data update_
+**_Dataset updates_**  
+As of today, we have fully transitioned 22 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, North Dakota, Oklahoma, Oregon South Dakota, Utah, Vermont, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., New York). We aim to get through these states as soon as possible (i.e., we're working on these states' format transitions at present); we appreciate your patience. If you have any inquiries or questions about the datasets, please do not hesitate to contact us.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Arizona, Arkansas, California, Connecticut, Delaware, District of Columbia, Illinois, Indiana, Maine, Massachusetts, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, and West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Arizona, Arkansas, California, Connecticut, Delaware, District of Columbia, Illinois, Indiana, Maine, Massachusetts, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, and South Carolina.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201123, 20201124, 20201125, 20201126, 20201127, 20201128, 20201129, and 20201130 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
 
 ### November 23, 2020 (1:15 PM PST)  
 **_Dataset updates_**  

@@ -1,7 +1,7 @@
 ## Data updates log  
 
 ### December 1, 2020 (6:41 am PST)
-_Our apologies for the delayed data update_
+_Our apologies for the delayed data update_  
 **_Dataset updates_**  
 As of today, we have fully transitioned 22 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, North Dakota, Oklahoma, Oregon South Dakota, Utah, Vermont, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 

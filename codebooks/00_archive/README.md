@@ -1,4 +1,4 @@
-# _Archived documentation as of November 5, 2020_
+# _Archived documentation - also see "State COVID-19 policy documentation_20201105.pdf"_
 
 
 ## State-level policy response:

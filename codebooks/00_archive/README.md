@@ -1,5 +1,6 @@
-# _Archived documentation - also see above pdf files for more recent documentation archives"_
+# _Archived documentation_
 
+_Also see above pdf files for more recent documentation archives_
 
 ## State-level policy response:
 - **File**: "USstatesCov19distancingpolicy.csv". Prior datasets are archived with date stamps in the format of YYYYMMDD.

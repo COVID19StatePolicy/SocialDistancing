@@ -1,5 +1,21 @@
 ## Data updates log  
 
+### December 3, 2020 (2:04 pm PST)
+**_Dataset updates_**  
+Today we introduce three new variables in both datasets: Curfew, CurfewStart, and CurfewEnd. Full documentation can be found under ~/codebooks from the landing page. In brief, these variables are meant to capture restrictions that are based on time, such as limited stay-at-home orders (e.g., requiring individuals to stay at home from 10:00 pm to 5:00 am) and early closures of businesses (e.g., bars must close by 10:00 pm). We have sought to capture these time-based policies since late November/early December 2020, but we are also actively working to capture past policies as well.
+
+We have fully transitioned 22 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, North Dakota, Oklahoma, Oregon South Dakota, Utah, Vermont, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+We are also continuing to update with new policies, though we are currently working through a bit of a backlog for some states (e.g., New York). We aim to get through these states as soon as possible (i.e., we're working on these states' format transitions at present); we appreciate your patience. If you have any inquiries or questions about the datasets, please do not hesitate to contact us.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Alaska, Arkansas, California, Colorado, Connecticut, District of Columbia, Georgia, Hawaii, Indiana, Iowa, Louisiana, Maine, Maryland, Michigan, Minnesota, Mississippi, Nevada, New Hampshire, New Mexico, Ohio, Oregon, South Carolina, Texas, Washington, and Wisconsin. 
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, District of Columbia, Georgia, Hawaii, Indiana, Iowa, Louisiana, Maine, Michigan, Nevada, Oregon, and South Dakota.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201201 and 20201202 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+
+
 ### December 1, 2020 (6:41 am PST)
 _Our apologies for the delayed data update_  
 **_Dataset updates_**  

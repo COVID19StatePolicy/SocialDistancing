@@ -68,7 +68,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _IHME COVID-19 Forecasting Team_, 2020. "Modeling COVID-19 scenarios for the United States." _Nature Medicine_: https://www.nature.com/articles/s41591-020-1132-9
   
-  - Unwin et al, 2020. "State-level tracking of COVID-19 in the United States." https://www.medrxiv.org/content/10.1101/2020.07.13.20152355v1?rss=1%22  
+  - Unwin et al, 2020. "State-level tracking of COVID-19 in the United States." _Nature Communications_: https://www.nature.com/articles/s41467-020-19652-6  
   
   - Krishnamachari et al, 2020. "Effects of Government Mandated Social Distancing Measures on Cumulative Incidence of COVID-19 in the United States and its Most Populated Cities." https://www.medrxiv.org/content/10.1101/2020.05.22.20110460v1  
   

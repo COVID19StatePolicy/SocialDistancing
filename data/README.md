@@ -1,5 +1,9 @@
 ## Data updates log  
 
+_**Data update schedule during winter holidays**_  
+After our Thursday data update on December 17, we will move to a weekly Wednesday updating schedule during the university winter break: December 23, December 30, and January 6, 2020. Please contact us if you have any questions during this time.
+
+
 ### December 10, 2020 (7:28 am PST)
 **_Dataset updates_**  
 We have fully transitioned 26 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, New Mexico, North Dakota, Oklahoma, Oregon, Rhode Island, South Dakota, Utah, Vermont, Washington, Wisconsin, and Wyoming. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 

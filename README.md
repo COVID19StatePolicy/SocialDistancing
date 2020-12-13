@@ -1,6 +1,7 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
-**_Data update schedule during winter holidays_**: After our Thursday data update on December 17, we will move to a weekly Wednesday updating schedule during the university winter break: December 23, December 30, and January 6, 2020. Please contact us if you have any questions during this time.
+**_Data update schedule during winter holidays_**  
+After our Thursday data update on December 17, we will move to a weekly Wednesday updating schedule during the university winter break: December 23, December 30, and January 6, 2020. Please contact us if you have any questions during this time.
 
 This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday afternoons/evenings and Thursday afternoons/evenings PST. 
 

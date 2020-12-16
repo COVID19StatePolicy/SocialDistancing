@@ -104,8 +104,10 @@ Policy data compiled here are primarily sourced by individual state government w
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
 | Rachel Castellano  | Department of Political Science, University of Washington  | rcastell@uw.edu | | |
+| Carolyn Dapper  | Department of Political Science, University of Washington  | cdapper@uw.edu | @carolyn_dapper | |
 | Megan Erickson  | Department of Political Science, University of Washington  | meganke@uw.edu | | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
+| Rebecca Walcott  | Evans School of Public Policy and Governance, University of Washington  | walcott@uw.edu | | |
 | John Wilkerson  | Department of Political Science, University of Washington  | jwilker@uw.edu | | |
 
 _Prior contributors include Kenya Amano, Bree Bang-Jensen, Christianna Parr, and Grace Reinke (Department of Political Science), and Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences)._

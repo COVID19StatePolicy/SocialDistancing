@@ -1,7 +1,7 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
 **_Data update schedule during winter holidays_**  
-After our Thursday data update on December 17, we will move to a weekly Wednesday updating schedule during the university winter break: December 23, December 30, and January 6, 2020. Please contact us if you have any questions during this time.
+We have temporarily moved to a weekly Wednesday updating schedule during the university winter break: December 23, 2020, December 30, 2020, and January 6, 2021. Please contact us if you have any questions during this time.
 
 This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is twice weekly, typically on Monday afternoons/evenings and Thursday afternoons/evenings PST. 
 
@@ -93,7 +93,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.107, December 15, 2020. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.108, December 17, 2020. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  

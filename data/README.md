@@ -1,7 +1,7 @@
 ## Data updates log  
 
 _**Data update schedule during winter holidays**_  
-After this update, we will temporarily move to a weekly Wednesday updating schedule during the university winter break: December 23, December 30, and January 6, 2020. Please contact us if you have any questions during this time.
+After this update, we will temporarily move to a weekly Wednesday updating schedule during the university winter break: December 23, 2020, December 30, 2020, and January 6, 2021. Please contact us if you have any questions during this time.
 
 ### December 17, 2020 (4:24 pm PST)
 **_Dataset updates_**  

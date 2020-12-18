@@ -12,7 +12,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Arkansas, Illinois, Indiana, Mississippi, New Hampshire, New Jersey, and Rhode Island. 
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20201215 and 20201216 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201215 and 20201216 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### December 15, 2020 (9:41 am PST)
 _Our apologies for the delayed data update_  
@@ -24,7 +24,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Arizona, California, Connecticut, Delaware, Iowa, Maine, Massachusetts, New Mexico, New York, North Carolina, North Dakota, Pennsylvania, Rhode Island, South Carolina, Utah, and Virginia. 
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20201210, 20201211, 20201212, 20201213, and 20201214 under "LastUpdated" for information the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20201210, 20201211, 20201212, 20201213, and 20201214 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### December 10, 2020 (7:28 am PST)
 **_Dataset updates_**  

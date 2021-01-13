@@ -3,6 +3,17 @@
 _**Data update schedule **_  
 Our current update schedule is weekly, typically on Wednesday afternoon PST. 
 
+### January 13, 2020 (2:41 pm PST)
+**_Dataset updates_**  
+As of today, we have fully transitioned 30 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Dakota, Oklahoma, Oregon South Dakota, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, California, Illinois, Indiana, Iowa, Massachusetts, Minnesota, New Mexico, North Carolina, North Dakota, Oregon, Rhode Island, South Carolina, Texas, Utah, virginia, Washington, West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, California, Illinois, Iowa, Massachusetts, Minnesota, New Mexico, North Carolina, North Dakota, Rhode Island, South Carolina, Texas, virginia, Washington, West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210106, 20210107, 20210108, 20210109, 20210110, 20210111, 20210112, or 20210113 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
 ### January 6, 2020 (12:06 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 28 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Dakota, Oklahoma, Oregon South Dakota, Utah, Vermont, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 

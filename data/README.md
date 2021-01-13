@@ -1,7 +1,7 @@
 ## Data updates log  
 
-_**Data update schedule **_  
-Our current update schedule is weekly, typically on Wednesday afternoon PST. 
+_**Data update schedule**_  
+Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
 ### January 13, 2020 (2:41 pm PST)
 **_Dataset updates_**  

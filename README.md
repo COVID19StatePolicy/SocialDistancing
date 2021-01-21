@@ -37,7 +37,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Christopher Adolph & Bree Bang-Jansen. July 2020. "Pandemic Politics: Understanding State-Level Social Distancing Responses to COVID-19" as part of Lehigh University Population Health Colloquium Series: Health Politics and Policy in Response to the Covid-19 Pandemic (3:56-20:39 on the video): https://www.youtube.com/watch?v=-7owBubWuko&feature=youtu.be
   
-  - Christopher Aolph & Beatrice Magistro. October 2020. "Pandemic Politics: Understanding State-level Policy Responses to COVID-19" as part of the University of Washington's Population Research Discovery Seminars with a focus on Policy Analytics and Population Health. https://washington.zoom.us/rec/play/-vwtP0SF0yISKxJAkZ3z64yVa65tjPfx82m4qXAny3jn7OiQqmcPPo5HetYCoEfww0CyRwYVEo8cKQPf.MRZL4bae-UU0AB2n?continueMode=true&_x_zm_rtaid=s5xJrbjXRO65fNZA7waNug.1604005983404.339a753174171065c0990cfe424ba44a&_x_zm_rhtaid=788  
+  - Christopher Adolph & Beatrice Magistro. October 2020. "Pandemic Politics: Understanding State-level Policy Responses to COVID-19" as part of the University of Washington's Population Research Discovery Seminars with a focus on Policy Analytics and Population Health. https://washington.zoom.us/rec/play/-vwtP0SF0yISKxJAkZ3z64yVa65tjPfx82m4qXAny3jn7OiQqmcPPo5HetYCoEfww0CyRwYVEo8cKQPf.MRZL4bae-UU0AB2n?continueMode=true&_x_zm_rtaid=s5xJrbjXRO65fNZA7waNug.1604005983404.339a753174171065c0990cfe424ba44a&_x_zm_rhtaid=788  
   
   - COVID Exit Strategy press call. October 2020. https://www.youtube.com/watch?v=4BqfzKldqXY&feature=youtu.be
 
@@ -90,7 +90,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.112, January 13, 2021. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.113, January 20, 2021. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  

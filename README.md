@@ -64,7 +64,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - _COVID-19 Mobility Data Network_, state-level interventions: https://visualization.covid19mobility.org/?date=2020-09-01&dates=2020-06-01_2020-09-01&region=USA  
   
-  - _Imperial College London_, "Report 23: State-level tracking of COVID-19 in the United States." https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/  
+  - _Imperial College London_, 2020. "Report 23: State-level tracking of COVID-19 in the United States." https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/  
   
   - _IHME COVID-19 Forecasting Team_, 2020. "Modeling COVID-19 scenarios for the United States." _Nature Medicine_: https://www.nature.com/articles/s41591-020-1132-9
   
@@ -85,6 +85,8 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   - Porcher & Renault, 2020. "Social Distancing Beliefs and Human Mobility: Evidence from Twitter." https://arxiv.org/abs/2008.04826  
   
   - Patterson, 2020. "The Politics of Pandemics: the Effect of Stay-At-Home Orders on COVID-19 Mitigation." https://static1.squarespace.com/static/560f0d36e4b07a0a28daec1c/t/5f46d6d4f556d839f825ddbd/1598478036871/Politics_of_Pandemics.pdf  
+  
+  - Neelon & et al, 2021. "Associations between governor political affiliation and COVID-19 cases, deaths, and testing in the United States." https://www.medrxiv.org/content/10.1101/2020.10.08.20209619v4.full  
   
 
 ## Citation

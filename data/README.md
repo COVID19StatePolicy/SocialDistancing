@@ -3,7 +3,18 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
-### February 10, 2020 (3:55 pm PST)
+### February 17, 2021 (2:27 pm PST)
+**_Dataset updates_**  
+As of today, we have fully transitioned 38 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alaska, California, Colorado, Connecticut, Florida, Georgia, Hawaii, Illinois, Indiana, Kentucky, Maine, Minnesota, Mississippi, Montana, Nevada, New Mexico, New York, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Utah, Vermont, Washington, Wyoming.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, Colorado, Connecticut, Florida, Georgia, Hawaii, Illinois, Kentucky, Maine, Minnesota, Mississippi, Montana, Nevada, New Mexico, New York, Ohio, Oklahoma, Rhode Island, South Carolina, Vermont, Washington, Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210211, 20210212, 20210213, 20210214, 20210215, 20210216, or 20210217 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
+### February 10, 2021 (3:55 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 37 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, California, Colorado, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
@@ -14,7 +25,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 
 In both datasets, please refer to "LastUpdatedNotes" for entries with 20210204, 20210205, 20210206, 20210207, 20210208, 20210209, or 20210210 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
-### February 3, 2020 (3:35 pm PST)
+### February 3, 2021 (3:35 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 34 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Arizona, California, Colorado, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
@@ -27,7 +38,7 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210128, 
 
 _Noteworthy coding change:_  Until late January 25, 2021, depending on the county and region, California had a series of overlapping policies all labeled as "Stay-at-home" mandates by the state.  Only one of these mandates applied statewide: the California statewide stay-at-home order that has been extended and amended by the state from its issuance on March 29, 2020.  However, this statewide mandate was progressively eased starting on May 7, 2020.  On further review, our team has concluded that this mandate, although labeled "Stay-at-home" by California, cannot be counted as a formal state-at-home mandate within our rubric after the amendments enacted on August 31, 2020, which allow a significant range of non-essential activities outside the home.  Accordingly, we now consider August 31, 2020 to be the official end date of the statewide Stay-at-home order in California.  With the recent end of the last regional and limited stay-at-home orders on January 25, 2021, this means no juridictions of California remain under a stay-at-home mandate in the terms that we define such policies.
 
-### January 27, 2020 (2:07 pm PST)
+### January 27, 2021 (2:07 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 33 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
@@ -38,7 +49,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 
 In both datasets, please refer to "LastUpdatedNotes" for entries with 20210121, 20210122, 20210123, 20210124, 20210125, 20210126, or 20210127 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
-### January 20, 2020 (5:57 pm PST)
+### January 20, 2021 (5:57 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 32 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
@@ -49,7 +60,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 
 In both datasets, please refer to "LastUpdatedNotes" for entries with 20210114, 20210115, 20210116, 20210117, 20210118, 20210119, or 20210120 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
-### January 13, 2020 (2:41 pm PST)
+### January 13, 2021 (2:41 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 30 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Dakota, Oklahoma, Oregon, South Dakota, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
@@ -60,7 +71,7 @@ In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added ent
 
 In both datasets, please refer to "LastUpdatedNotes" for entries with 20210106, 20210107, 20210108, 20210109, 20210110, 20210111, 20210112, or 20210113 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
-### January 6, 2020 (12:06 pm PST)
+### January 6, 2021 (12:06 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 28 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Arizona, California, Colorado, Idaho, Indiana, Iowa, Kansas, Kentucky, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Dakota, Oklahoma, Oregon, South Dakota, Utah, Vermont, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennyslvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 

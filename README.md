@@ -88,7 +88,9 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Neelon & et al, 2021. "Associations between governor political affiliation and COVID-19 cases, deaths, and testing in the United States." https://www.medrxiv.org/content/10.1101/2020.10.08.20209619v4.full  
   
-  - Krishnamachari et al, 2021. "The role of mask mandates, stay at home orders and school closure in curbing the COVID-19 pandemic prior to vaccination." _American Journal of Infection Control_: https://www.ajicjournal.org/article/S0196-6553(21)00057-2/fulltext
+  - Krishnamachari et al, 2021. "The role of mask mandates, stay at home orders and school closure in curbing the COVID-19 pandemic prior to vaccination." _American Journal of Infection Control_: https://www.ajicjournal.org/article/S0196-6553(21)00057-2/fulltext  
+  
+  - Yamamoto et al, 2021. "Quantifying compliance with COVID-19 mitigation policies in the US: A mathematical modeling study." _Infectious Disease Modelling_: https://www.sciencedirect.com/science/article/pii/S2468042721000191  
   
 
 ## Citation

@@ -3,6 +3,21 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
+### March 24, 2021 (4:06 pm PST)
+**_Dataset updates_**  
+Today we introduce a new variable in both datasets: VaccineExempt. Full documentation can be found under ~/codebooks from the landing page. In brief, VaccineExempt is meant to indicate policies which expressly do not apply to persons who have been fully vaccinated against SARS-CoV-2. This new variable may apply to virtually any policy type and has been added to current and historical policies for all states.  Note that we do not count the addition of a vaccine exemption to constitute policy easing, but instead is treated as an additional policy layer which may be added to most policy types.  Policies with a vaccine exemption are coded as VaccineExempt=1; policies without an exemption have been left blank for this new variable.
+
+As of today, we have fully transitioned 41 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Hawaii, Nebraska, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: California, Colorado, Connecticut, District of Columbia, Illinois, Indiana, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Nebraska, New Jersey, New York, Ohio, Rhode Island, Utah, Vermont, Washington.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, Connecticut, District of Columbia, Illinois, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Nebraska, New Jersey, New York, Ohio, Rhode Island, Vermont, Washington.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210318, 20210319, 20210320, 20210321, 20210322, 20210323, or 20210324 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
 ### March 17, 2021 (3:13 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 40 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Michigan, Minnesota, Missouri, Montana, New Mexico, New Jersey, New York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 

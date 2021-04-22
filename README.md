@@ -25,7 +25,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 **source** : pdf documentation of policies identified.
 
 ## Articles
-  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. 2020. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." _Journal of Health Politics, Policy and Law._ Online first, print forthcoming: https://read.dukeupress.edu/jhppl/article/doi/10.1215/03616878-8802162/166718/Pandemic-Politics-Timing-State-Level-Social  
+  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. 2021. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." _Journal of Health Politics, Policy and Law._ Online first, print forthcoming: https://read.dukeupress.edu/jhppl/article/doi/10.1215/03616878-8802162/166718/Pandemic-Politics-Timing-State-Level-Social  
  
  _Pre-prints_  
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, John Wilkerson. "Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19." https://www.medrxiv.org/content/10.1101/2020.03.30.20046326v1  
@@ -106,13 +106,11 @@ Policy data compiled here are primarily sourced by individual state government w
 | Name  | Affiliation | Email | Twitter | GitHub |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
-| Rachel Castellano  | Department of Political Science, University of Washington  | rcastell@uw.edu | | |
 | Carolyn Dapper  | Department of Political Science, University of Washington  | cdapper@uw.edu | @carolyn_dapper | |
-| Megan Erickson  | Department of Political Science, University of Washington  | meganke@uw.edu | | |
 | Beatrice Magistro  | Department of Political Science, University of Washington | magistro@uw.edu | @BeaMagistro | |
 | Rebecca Walcott  | Evans School of Public Policy and Governance, University of Washington  | walcott@uw.edu | | |
 
-_Prior contributors include Kenya Amano, Bree Bang-Jensen, Christianna Parr, Grace Reinke, and John Wilkerson (Department of Political Science), and Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences)._
+_Prior contributors include Kenya Amano, Bree Bang-Jensen, Rachel Castellano, Megan Erickson, Christianna Parr, Grace Reinke, and John Wilkerson (Department of Political Science), and Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences)._
 
 ## Terms of use:
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2020 by the COVID-19 State Policy Team, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon publicly available data from multiple sources that do not always agree. The COVID-19 State Policy Team hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited.

@@ -5,7 +5,6 @@ Our current update schedule is weekly, typically on Wednesday afternoons PST.
 
 ### May 19, 2021 (4:12 pm PST)
 **_Dataset updates_**  
-
 Please note: due to the volume of policy activity this week, we have not yet coded all easing and endings.  In particular, we have not yet coded policy easings and endings in Connecticut and Rhode Island taking place yesterday, May 18, 2021, and today, May 19, 2021.  These policies will be included in our next weekly upload. Please contact our team if you have questions about these policies before then.
 
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 

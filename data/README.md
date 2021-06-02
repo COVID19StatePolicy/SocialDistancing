@@ -3,6 +3,20 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
+### June 2, 2021 (4:32 pm PST)
+**_Dataset updates_**  
+
+As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Arkansas, California, Colorado, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Massachusetts, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Tennessee, Utah, Vermont, Washington, West Virginia, Wyoming.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Arkansas, Colorado, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Massachusetts, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Tennessee, Vermont, Washington, Wyoming.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210527, 20210528, 20210529, 20210530, 20210531, 20210601, or 20210602 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
 ### May 26, 2021 (4:10 pm PST)
 **_Dataset updates_**  
 
@@ -15,7 +29,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Connecticut, Delaware, District of Columbia, Hawaii, Idaho, Kansas, Louisiana, Maine, Michigan, Nebraska, Nevada, New Jersey, Pennsylvania, Rhode Island, South Carolina, Washington, Wyoming.
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20210520, 20210521, 20210522, 20210523, 20210524, 20210525, or 202104526 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210520, 20210521, 20210522, 20210523, 20210524, 20210525, or 20210526 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### May 19, 2021 (4:12 pm PST)
 **_Dataset updates_**  
@@ -30,7 +44,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, Delaware, District of Columbia, Idaho, Illinois, Kansas, Kentucky, Louisiana, Maine, Maryland, Michigan, Minnesota, New Jersey, New Mexico, New York, North Carolina, Ohio, Oregon, Rhode Island, South Carolina, Utah, Vermont, Virginia, Washington, West Virginia.
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20210513, 20210514, 20210515, 20210516, 20210517, 20210518, or 202104519 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210513, 20210514, 20210515, 20210516, 20210517, 20210518, or 20210519 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### May 12, 2021 (3:48 pm PST)
 **_Dataset updates_**  
@@ -43,7 +57,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alaska, District of Columbia, Hawaii, Illinois, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New York, Rhode Island, South Carolina, Utah.
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20210506, 20210507, 20210508, 20210509, 20210510, 20210511, or 202104512 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210506, 20210507, 20210508, 20210509, 20210510, 20210511, or 20210512 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### May 5, 2021 (4:13 pm PST)
 **_Dataset updates_**  
@@ -56,7 +70,7 @@ In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added
 
 In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, California, Colorado, Connecticut, Delaware, District of Columbia, Georgia, Indiana, Maine, Maryland, Mississippi, Nevada, New Jersey, New Mexico, New York, North Carolina, North Dakota, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Vermont, Virginia, Washington, West Virginia, Wyoming.
 
-In both datasets, please refer to "LastUpdatedNotes" for entries with 20210429, 20210430, 20210501, 20210502, 20210503, 20210504, or 202104505 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210429, 20210430, 20210501, 20210502, 20210503, 20210504, or 20210505 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
 
 ### April 28, 2021 (3:43 pm PST)
 **_Dataset updates_**  

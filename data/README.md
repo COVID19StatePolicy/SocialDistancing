@@ -3,6 +3,20 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
+### June 22, 2021 (5:45 pm PST)
+**_Dataset updates_**  
+
+As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Colorado, Delaware, Hawaii, Idaho, Kansas, Louisiana, Maryland, Michigan, Minnesota, New York, Ohio, Oregon, Rhode Island, Utah, Washington, West Virginia.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Colorado, Delaware, Hawaii, Idaho, Kansas, Louisiana, Maryland, Michigan, Minnesota, New York, Ohio, Rhode Island, Utah, West Virginia.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210617, 20210618, 20210619, 20210620, 20210621, 20210622, or 20210623 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
 ### June 16, 2021 (4:33 pm PST)
 **_Dataset updates_**  
 

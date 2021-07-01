@@ -5,7 +5,6 @@ Our current update schedule is weekly, typically on Wednesday afternoons PST.
 
 ### June 30, 2021 (5:26 pm PST)
 **_Dataset updates_**  
-
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
 Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
@@ -19,7 +18,6 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210624, 
 
 ### June 23, 2021 (5:45 pm PST)
 **_Dataset updates_**  
-
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
 Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
@@ -33,7 +31,6 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210617, 
 
 ### June 16, 2021 (4:33 pm PST)
 **_Dataset updates_**  
-
 Please note: due to the volume of policy activity over the last few days, we have not yet coded all major policy endings taking place this week. In particular, we have not yet coded the broad policy endings in Massachusetts and New York which took place yesterday, June 15, 2021. These policy endings will be included in our next weekly upload. Please contact our team if you have questions about these policies before then.
 
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
@@ -49,7 +46,6 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210610, 
 
 ### June 9, 2021 (4:04 pm PST)
 **_Dataset updates_**  
-
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
 Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
@@ -63,7 +59,6 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210603, 
 
 ### June 2, 2021 (4:32 pm PST)
 **_Dataset updates_**  
-
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
 Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.
@@ -77,7 +72,6 @@ In both datasets, please refer to "LastUpdatedNotes" for entries with 20210527, 
 
 ### May 26, 2021 (4:10 pm PST)
 **_Dataset updates_**  
-
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 
 
 Over the next few weeks, we will be partially transitioning additional states to the new dataset format through specific dates. Currently, Connecticut, Delaware, Hawaii, Nevada, New Hampshire, and West Virginia have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv".  All states will eventually be transitioned through to the present.

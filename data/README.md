@@ -3,6 +3,13 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
+### July 13, 2021 (9:44 am PST)
+Our typical Wednesday dataset updates will not be occurring this week (i.e., Wednesday, July 14), but will resume on Wednesday, July 21. 
+
+We sincerely apologize for any inconvenience. Please contact us if you have any questions about recent policy developments; for instance, we are happy to share links to those we have identified since the last dataset update (e.g., Colorado's ending of its state of disaster emergency on July 8; Delaware's ending of the state of emergency, as issued July 12 and effective July 13).
+
+
+
 ### July 7, 2021 (8:28 pm PST)
 **_Dataset updates_**  
 As of today, we have fully transitioned 44 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin. States and/or policy types (e.g., Quarantine in Connecticut, Massachusetts, and Pennsylvania) that have been transitioned to this format are coded as 1 under "ReReviewed." 

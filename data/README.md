@@ -3,6 +3,20 @@
 _**Data update schedule**_  
 Our current update schedule is weekly, typically on Wednesday afternoons PST. 
 
+### July 21, 2021 (3:37 pm PST)
+**_Dataset updates_**  
+As of today, we have fully transitioned 45 states to the dataset format inclusive of levels of restrictions for businesses and schools, as well as variables that more directly reflecting what locations certain policies apply to. These states are Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, New Mexico, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. States that have been transitioned to this format are coded as 1 under "ReReviewed." 
+
+Note that Connecticut, Delaware, Hawaii, Nevada, and New Hampshire have been transitioned for all policies issued before September 1, 2020; for these states, transitioned policies are coded as 1 under "ReReviewed" in the dataset "USstatesCov19distancingpolicyBETA.csv". All states will eventually be transitioned through to the present.
+
+**_State updates for both datasets_**  
+In the dataset "USstatesCov19distancingpolicyBETA.csv", we have updated or added entries for the following states: Alabama, Colorado, Delaware, Idaho, Indiana, Maryland, Mississippi, Utah, and Washington.
+
+In the dataset "USstatesCov19distancingpolicy.csv", we have updated or added entries for the following states: Alabama, Colorado, Delaware, Idaho, Indiana, Maryland, Mississippi, and Washington.
+
+In both datasets, please refer to "LastUpdatedNotes" for entries with 20210708, 20210716, 20210719, 20210720, and 20210721 under "LastUpdated" for information on the updates; if they are new entries, they will not have any notes.
+
+
 ### July 13, 2021 (9:44 am PST)
 Our typical Wednesday dataset updates will not be occurring this week (i.e., Wednesday, July 14), but will resume on Wednesday, July 21. 
 

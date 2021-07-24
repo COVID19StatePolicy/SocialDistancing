@@ -1,8 +1,10 @@
 # State-level social distancing policies in response to the 2019 novel coronavirus in the US
 
-This is a routinely-maintained data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and is maintained by researchers at the University of Washington, Seattle, WA, USA. Our current update schedule is weekly, typically on Wednesday afternoons PST. 
+This is a data repository for US state-level distancing policies to the 2019 novel coronavirus (SARS-CoV-2), the cause of COVID-19. It was developed and maintained by researchers at the University of Washington, Seattle, WA, USA.
 
-Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation as well as adoption of new policy mandates. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
+**Starting August 1, 2021, we will not be systematically capturing new policies issued by states and the District of Columbia. Our team will be continuing to complete data improvement projects and ensuring full policy records to August 1, 2021; however, policies issued on or after this date will not be included in this data repository. Dataset updates will continue through the summer of 2021.**
+
+Note all data provided here are subject to updates or revisions based on continuing review of existing policy documentation. All efforts will be made to clearly document and communicate any updates or revisions as they occur.
 
 Analysis of these data is also ongoing; interested parties should contact us (see information below).
 

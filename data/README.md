@@ -1,7 +1,7 @@
 ## Data updates log  
 
-_**Data update schedule**_  
-Our current update schedule is weekly, typically on Wednesday afternoons PST. 
+**Starting August 1, 2021, we will not be systematically capturing new policies issued by states and the District of Columbia. Our team will be continuing to complete data improvement projects and ensuring full policy records to August 1, 2021; however, policies issued on or after this date will not be included in this data repository. Dataset updates will continue through the summer of 2021.**
+
 
 ### July 21, 2021 (3:35 pm PST)
 **_Dataset updates_**  

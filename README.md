@@ -98,7 +98,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 ## Citation
 As the data are updated regularly, please check any relevant updates here:    
 
-Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Rebecca Walcott, Carolyn Dapper, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.144, September 3, 2021. http://www.covid19statepolicy.org
+Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castellano, Megan Erickson, Rebecca Walcott, Carolyn Dapper, Kenya Amano, John Wilkerson, and Christopher Adolph. "State-level social distancing policies in response to COVID-19 in the US". Version 1.145, September 8, 2021. http://www.covid19statepolicy.org
 
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  
@@ -108,9 +108,8 @@ Policy data compiled here are primarily sourced by individual state government w
 | Name  | Affiliation | Email | Twitter | GitHub |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
-| Bree Bang-Jensen  | Department of Political Science, University of Washington  | breebj@uw.edu | | |
 
-_Prior contributors include Kenya Amano, Rachel Castellano, Carolyn Dapper, Megan Erickson, Christianna Parr, Grace Reinke, and John Wilkerson (Department of Political Science, University of Washington), Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences, University of Washington), and Rebecca Walcott (Evans School of Public Policy and Governance, University of Washington)._
+_Prior contributors include Kenya Amano, Bree Bang-Jensen, Rachel Castellano, Carolyn Dapper, Megan Erickson, Christianna Parr, Grace Reinke, and John Wilkerson (Department of Political Science, University of Washington), Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences, University of Washington), and Rebecca Walcott (Evans School of Public Policy and Governance, University of Washington)._
 
 ## Terms of use:
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2020 by the COVID-19 State Policy Team, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon publicly available data from multiple sources that do not always agree. The COVID-19 State Policy Team hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited.

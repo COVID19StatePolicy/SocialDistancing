@@ -84,15 +84,15 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Porcher & Renault, 2020. "Social Distancing Beliefs and Human Mobility: Evidence from Twitter." https://arxiv.org/abs/2008.04826  
   
-  - Patterson, 2020. "The Politics of Pandemics: the Effect of Stay-At-Home Orders on COVID-19 Mitigation." https://static1.squarespace.com/static/560f0d36e4b07a0a28daec1c/t/5f46d6d4f556d839f825ddbd/1598478036871/Politics_of_Pandemics.pdf  
-  
   - Gagnon et al, 2020. "Social Distancing Causally Impacts the Spread of SARS-CoV-2: a U.S. Nationwide Event Study." https://www.medrxiv.org/content/10.1101/2020.06.29.20143131v1.full
   
-  - Neelon & et al, 2021. "Associations between governor political affiliation and COVID-19 cases, deaths, and testing in the United States." https://www.medrxiv.org/content/10.1101/2020.10.08.20209619v4.full  
+  - Neelon et al, 2021. "Associations between governor political affiliation and COVID-19 cases, deaths, and testing in the United States." https://www.medrxiv.org/content/10.1101/2020.10.08.20209619v4.full  
   
   - Krishnamachari et al, 2021. "The role of mask mandates, stay at home orders and school closure in curbing the COVID-19 pandemic prior to vaccination." _American Journal of Infection Control_: https://www.ajicjournal.org/article/S0196-6553(21)00057-2/fulltext  
   
   - Yamamoto et al, 2021. "Quantifying compliance with COVID-19 mitigation policies in the US: A mathematical modeling study." _Infectious Disease Modelling_: https://www.sciencedirect.com/science/article/pii/S2468042721000191  
+  
+  - Patterson, 2021. "The Politics of Pandemics: The Effect of Stay-At-Home Orders on COVID-19 Mitigation." _State Politics & Policy Quarterly_. https://doi.org/10.1017/spq.2021.14
   
 
 ## Citation

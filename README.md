@@ -103,13 +103,22 @@ Nancy Fullman, Bree Bang-Jensen, Grace Reinke, Beatrice Magistro, Rachel Castell
 ## Contributors
 Policy data compiled here are primarily sourced by individual state government websites. As needed, they are supplemented by governor social media, news articles, and other compilations of state-level policy actions (e.g., National Governors Association, Kaiser Family Foundation).  
 
-**Current contributors**
+_Individual contributors worked on this project at different times from March 2020 through September 2021. All contributors to policy data collection and coding are listed alphabetically below._
 
 | Name  | Affiliation | Email | Twitter | GitHub |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Christopher Adolph  | Department of Political Science, University of Washington  | cadolph@uw.edu | | |
-
-_Prior contributors include Kenya Amano, Bree Bang-Jensen, Rachel Castellano, Carolyn Dapper, Megan Erickson, Beatrice Magistro, Christianna Parr, Grace Reinke, and John Wilkerson (Department of Political Science, University of Washington), Nancy Fullman and Maitreyi Sahu (Department of Health Metrics Sciences, University of Washington), and Rebecca Walcott (Evans School of Public Policy and Governance, University of Washington)._
+| Bree Bang-Jensen  | Department of Political Science, University of Washington  | | | |
+| Rachel Castellano  | Department of Political Science, University of Washington  | | | |
+| Carolyn Dapper  | Department of Political Science, University of Washington  | | | |
+| Megan Erickson  | Department of Political Science, University of Washington  | | | |
+| Nancy Fullman  | Department of Health Metrics Sciences, University of Washington  | | | |
+| Beatrice Magistro | Department of Political Science, University of Washington  | | | |
+| Christianna Parr  | Department of Political Science, University of Washington  | | | |
+| Grace Reinke  | Department of Political Science, University of Washington  | | | |
+| Maitreyi Sahu  | Department of Health Metrics Sciences, University of Washington | | | |
+| Rebecca Walcott | Evans School of Public Policy and Governance, University of Washington  | | | |
+| John Wilkerson  | Department of Political Science, University of Washington  | | | |
 
 ## Terms of use:
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2020 by the COVID-19 State Policy Team, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon publicly available data from multiple sources that do not always agree. The COVID-19 State Policy Team hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited.

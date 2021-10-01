@@ -112,8 +112,8 @@ _Individual contributors worked on this project at different times from March 20
 | Rachel Castellano  | Department of Political Science, University of Washington  | | | |
 | Carolyn Dapper  | Department of Political Science, University of Washington  | | | |
 | Megan Erickson  | Department of Political Science, University of Washington  | | | |
-| Nancy Fullman  | Department of Health Metrics Sciences, University of Washington  | | | |
-| Beatrice Magistro | Department of Political Science, University of Washington  | | | |
+| Nancy Fullman  | Department of Health Metrics Sciences, University of Washington  | | @nwnancy | |
+| Beatrice Magistro | Department of Political Science, University of Washington  | | @BeaMagistro  | |
 | Christianna Parr  | Department of Political Science, University of Washington  | | | |
 | Grace Reinke  | Department of Political Science, University of Washington  | | | |
 | Maitreyi Sahu  | Department of Health Metrics Sciences, University of Washington | | | |

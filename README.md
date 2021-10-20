@@ -31,8 +31,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
   
   - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, Rachel Castellano, Megan Erickson, John Wilkerson. 2021. "The Pandemic Policy U-Turn: Partisanship, Public Health, and Race in Decisions to Ease COVID-19 Social Distancing Policies in the United States." _Perspectives on Politics_. https://doi.org/10.1017/S1537592721002036 
  
- _Pre-prints_  
-  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. "Governor partisanship explains the adoption of statewide mandates to wear face coverings." https://www.medrxiv.org/content/10.1101/2020.08.31.20185371v1  
+  - Christopher Adolph, Kenya Amano, Bree Bang-Jensen, Nancy Fullman, Beatrice Magistro, Grace Reinke, John Wilkerson. 2021. "Governor Partisanship Explains the Adoption of Statewide Mask Mandates in Response to COVID-19." _State Politics & Policy Quarterly_. https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/governor-partisanship-explains-the-adoption-of-statewide-mask-mandates-in-response-to-covid19 
 
 ## Presentations  
   - Christopher Adolph. May 2020. "Pandemic Politics: State-Level Social Distancing Responses to COVID-19" as part of University of Washington's faculty panel on State Politics and Coronavirus Pandemic (4:04-35:17 on the video): https://www.youtube.com/watch?v=IZIdaGGpryI  

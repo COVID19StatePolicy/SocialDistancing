@@ -11,7 +11,7 @@ Analysis of these data is also ongoing; interested parties should contact us (se
 
 ## Organization
 **data** : .csv files of current and archived datasets.  
-**codebooks** :  detailed information on policies tracked and variables in each dataset. To date, policies tracked in terms of their issuance, enactment, expansion, easin, and ending include:    
+**codebooks** :  detailed information on policies tracked and variables in each dataset. To date, policies tracked in terms of their issuance, enactment, expansion, easing, and ending include:    
   - Emergency declarations    
   - Gathering restrictions and recommendations    
   - School closures    
